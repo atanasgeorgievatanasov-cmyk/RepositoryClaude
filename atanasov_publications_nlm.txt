@@ -1,0 +1,812 @@
+1. Yeung AWK, Solka M, Jóźwik A, Ksepka N, Matin M, Wang D, et al. Anthocyanins-dietary natural products with a variety of bioactivities for the promotion of human and animal health. Animal Science Papers and Reports. 2024;42(1):5-33. doi:10.2478/aspr-2023-0020
+
+2. Cheng H, Shi W, Sheng B, Lee AY, Car J, Chaudhary V, et al. The Use of Large Language Models and Their Association With Enhanced Impact in Biomedical Research and Beyond. MedComm - Future Medicine. 2025;4(2):e70019. doi:10.1002/mef2.70019
+
+3. Tzvetkov NT, Kirilov K, Matin M, Atanasov AG. Natural product drug discovery and drug design: two approaches shaping new pharmaceutical development. Nephrology Dialysis Transplantation. 2024;39(3):375-378. doi:10.1093/ndt/gfad208
+
+4. Matin M, Yeung AWK, Joshi T, Tzvetkov NT, Matin FB, Strzałkowska N, et al. Ginger: a total-scale analysis of the scientific literature on a widely used spice and phytotherapeutic. Animal Science Papers and Reports. 2024;42(4):349-364. doi:10.2478/aspr-2023-0042
+
+5. El Boukhari R, Matin M, Atanasov AG, Fatimi A. Recent advances in pest-repellents based on the Lamiaceae family’s plants: a patent analysis overview. Animal Science Papers and Reports. 2024;42(4):383-400. doi:10.2478/aspr-2023-0044
+
+6. Ławiński M, Ksepka N, Mickael ME, Horbańczuk JO, Słodkowski M, Atanasov AG, et al. Predictive equations in determining resting energy expenditure in patients with head and neck cancer receiving home enteral nutrition. Nutrition. 2025;131:112636. doi:10.1016/j.nut.2024.112636
+
+7. Religa P, Mickael ME, Łazarczyk M, Kubick N, Rehan IF, Horbańczuk JO, et al. Dissecting the difference between positive and negative brain health sentiment using X data. Frontiers in Digital Health. 2025;7:1648671. doi:10.3389/fdgth.2025.1648671
+
+8. Kletečka-Pulker M, Doppler K, Völkl-Kernstock S, Fischer L, Eitenberger M, Mussner M, et al. Influence of various factors on the legal outcome of cases of child abuse—experiences gathered at an interdisciplinary forensic examination center in Vienna, Austria. International Journal of Legal Medicine. 2024;138(1):3-14. doi:10.1007/s00414-023-03094-y
+
+9. Eitenberger M, Gerger G, Klomfar S, Gabriel MA, Kletecka-Pulker M, Schaden E, et al. Focusing on experts: Expectations of healthcare professionals regarding the use of telemedicine in intensive care units. Digital Health. 2024;10. doi:10.1177/20552076241257042
+
+10. El Boukhari R, Matin M, Bouissane L, Ławiński M, Lushchak O, Singla RK, et al. Enhancing human gut health: Global innovations in dysbiosis management. iMeta. 2025;4(3):e70028. doi:10.1002/imt2.70028
+
+11. Zhu X, Wang D, Atanasov AG. A review: Anti-obesity drug discovery from natural plant metabolites and endogenous peptides. Current Research in Biotechnology. 2024;8:100259. doi:10.1016/j.crbiot.2024.100259
+
+12. Pirgozliev V, Kljak K, Whiting I, Mansbridge S, Atanasov A, Enchev S, et al. Dietary stinging nettle (Urtica dioica) improves carotenoids content in laying hen egg yolk. British Poultry Science. 2025;66(2):275-280. doi:10.1080/00071668.2024.2406335
+
+13. Boyina HK, Chakraborty S, Atrooz OM, Adamska O, Sanka K, Atanasov AG, et al. Zingiberaceae wonders: the antioxidant powerhouse for optimal health. Animal Science Papers and Reports. 2025;43(1):1-18. doi:10.2478/aspr-2025-0001
+
+14. Tan EW, Low LH, Atanasov AG, Goh BH. Bridging Traditions and Technology: The Role of Ethnopharmacology in Shaping Next-Generation Multidisciplinary Researchers. Pharmacology Research and Perspectives. 2025;13(1):e70074. doi:10.1002/prp2.70074
+
+15. Li MY, Gu A, Li J, Tang N, Matin M, Yang Y, et al. Exploring food and medicine homology: potential implications for cancer treatment innovations. Acta Materia Medica. 2025;4(2):200-206. doi:10.15212/AMM-2025-0003
+
+16. Pirgozliev VR, Mansbridge SC, Whiting IM, Kljak K, Jozwik A, Rollinger JM, et al. Feeding Black Pepper (Piper nigrum) or Exogenous Xylanase Improves the Blood Lipid Profile of Broiler Chickens Fed Wheat-Based Diets. Veterinary Sciences. 2023;10(9):587. doi:10.3390/vetsci10090587
+
+17. Tzvetkov NT, Atanasov AG. Peptides as a leading class therapeutic agents: future and challenges. Current Research in Biotechnology. 2025;10:100323. doi:10.1016/j.crbiot.2025.100323
+
+18. Banach M, Fogacci F, Atanasov AG, Stoian AP, Jóźwiak J, Bytyçi I, et al. A 360° perspective on cardiovascular prevention: the International Lipid Expert Panel SiMple tIps for the heaLthy hEart (ILEP-SMILE). Archives of Medical Science. 2025;21(3):711-718. doi:10.5114/aoms/205732
+
+19. Litvinova O, Yeung AWK, Hammerle FP, Mickael ME, Matin M, Kletecka-Pulker M, et al. Digital Technology Applications in the Management of Adverse Drug Reactions: Bibliometric Analysis. Pharmaceuticals. 2024;17(3):395. doi:10.3390/ph17030395
+
+20. Pirgozliev V, Mansbridge SC, Whiting IM, Rose SP, Kljak K, Johnson AE, et al. Feeding graded levels of dried Sea buckthorn (Hippophaes rhamnoides) berries to broiler chickens. Annals of Applied Biology. 2023;183(1):7-14. doi:10.1111/aab.12828
+
+21. Charuta A, Jóźwik A, Krzęcio-Nieczyporuk E, Paziewska A, Rymuza K, Ostapiuk M, et al. The effect of pomegranate juice consumption on bone histomorphometric parameters with the use of an animal model. Animal Science Papers and Reports. 2024;42(2):173-188. doi:10.2478/aspr-2023-0029
+
+22. Litvinova O, Mickael ME, Gerger G, Yeung AWK, Fatimi A, Haick H, et al. Patent and bibliometric analysis of the scientific landscape of the use of graphene-based biosensors and their prospects in digital medicine. World Patent Information. 2025;82:102376. doi:10.1016/j.wpi.2025.102376
+
+23. Kumar S, Gezici S, Sekeroglu N, Atanasov AG, Singla RK. Editorial: Natural products based management of neurological disorders: Mechanistic insight and translational informatics approach. Frontiers in Pharmacology. 2023;14:1170839. doi:10.3389/fphar.2023.1170839
+
+24. Litvinova O, Hammerle FP, Stoyanov J, Ksepka N, Matin M, Ławiński M, et al. Patent and Bibliometric Analysis of the Scientific Landscape of the Use of Pulse Oximeters and Their Prospects in the Field of Digital Medicine. Healthcare (Switzerland). 2023;11(22):3003. doi:10.3390/healthcare11223003
+
+25. Yeung AWK, Solka M, Jóźwik A, Ksepka N, Matin M, Wysocki K, et al. Omega-3 fatty acids: dietary components for the promotion of human and animal health. Animal Science Papers and Reports. 2025;43(3):235-260. doi:10.2478/aspr-2025-0017
+
+26. Gupta R, Kapoor B, Gulati M, Saini S, Rani P, Atanasov AG, et al. Quality by Design–Steered Chromatographic Separation and Identification of the Geometric Isomers of Capsiate by Reversed-Phase HPLC and LC-MS. Journal of Chromatographic Science. 2025;63(2):bmaf001. doi:10.1093/chromsci/bmaf001
+
+27. Matin M, K. Singla R, Jóźwik A, Horbańczuk JO, Ksepka N, Wysocki K, et al. Health-promoting and medicinal properties of Zingiberaceae family plants: A minireview with a special focus on galangal, turmeric, cardamom, and ginger. Current Research in Biotechnology. 2025;10:100329. doi:10.1016/j.crbiot.2025.100329
+
+28. Wochele-Thoma T, Ijinu TP, Sasidharan SP, Manakkadan A, Shine LS, Krishnakumar NM, et al. Global English-language-dominated discourse on artificial intelligence in healthcare: a three-year longitudinal analysis of the #AIinHealthcare movement on X. Frontiers in Digital Health. 2026;8:1795488,. doi:10.3389/fdgth.2026.1795488
+
+29. Yeung AWK, Matin M, Mickael ME, Behrens S, Hrg D, Ławiński M, et al. Bibliometric Analysis of Papers Dealing with Dental Videos on YouTube. Publications. 2024;12(3):22. doi:10.3390/publications12030022
+
+30. Religa P, Kubick N, Łazarczyk M, Tsegaye B, Ławiński M, Paszkiewicz J, et al. The GFI1 Gene Family: Evolution, Structure, and Its Role in Immune Responses. Journal of Molecular Evolution. 2026;94(3):470-482. doi:10.1007/s00239-026-10313-8
+
+31. Pirgozliev VR, Mansbridge SC, Whiting IM, Abdulla JM, Rose SP, Kljak K, et al. The Benefits of Exogenous Xylanase in Wheat–Soy Based Broiler Chicken Diets, Consisting of Different Soluble Non-Starch Polysaccharides Content. Poultry. 2023;2(2):123-133. doi:10.3390/poultry2020012
+
+32. Jałocha I, Ławiński M, Zadka K, Matin M, Jachnis A, Ukleja A, et al. The impact of home enteral nutrition planned with the use of indirect calorimetry on the nutritional status and body composition of cancer patients. Current Research in Biotechnology. 2024;7:100160. doi:10.1016/j.crbiot.2023.100160
+
+33. Szymańska-Czerwińska M, Matin M, Niemczuk K, Strzałkowska N, Osiński Z, Horbańczuk K, et al. Effect of chokeberry pomace as a feed additive for high-producing dairy goats on oxidative stress parameters and quality of milk. Journal of Veterinary Research (Poland). 2024;68(3):409-417. doi:10.2478/jvetres-2024-0052
+
+34. Mickael M, Łazarczyk M, Kubick N, Gurba A, Kocki T, Horbańczuk JO, et al. FEZF2 and AIRE1: An Evolutionary Trade-off in the Elimination of Auto-reactive T Cells in the Thymus. Journal of Molecular Evolution. 2024;92(1):72-86. doi:10.1007/s00239-024-10157-0
+
+35. Yeung AWK, Hammerle FP, Behrens S, Matin M, Mickael ME, Litvinova O, et al. Online Information About Side Effects and Safety Concerns of Semaglutide: Mixed Methods Study of YouTube Videos. JMIR Infodemiology. 2025;5:e59767. doi:10.2196/59767
+
+36. Sacharczuk M, Mickael ME, Kubick N, Kamińska A, Horbańczuk JO, Atanasov AG, et al. The Current Landscape of Hypotheses Describing the Contribution of CD4+ Heterogeneous Populations to ALS. Current Issues in Molecular Biology. 2024;46(8):7846-7861. doi:10.3390/cimb46080465
+
+37. Kapoor B, Gulati M, Rani P, Kochhar RS, Atanasov AG, Gupta R, et al. Lycopene: Sojourn from kitchen to an effective therapy in Alzheimer's disease. BioFactors. 2023;49(2):208-227. doi:10.1002/biof.1910
+
+38. Ksila M, Ghzaiel I, Sassi K, Zarrouk A, Leoni V, Poli G, et al. Therapeutic Applications of Oxysterols and Derivatives in Age-Related Diseases, Infectious and Inflammatory Diseases, and Cancers. Advances in Experimental Medicine and Biology. 2024;1440:379-400. doi:10.1007/978-3-031-43883-7_19
+
+39. Hriberšek M, Eibensteiner F, Kapral L, Teufel A, Nawaz FA, Cenanovic M, et al. “Loved ones are not ‘visitors' in a patient's life”—The importance of including loved ones in the patient's hospital stay: An international Twitter study of #HospitalsTalkToLovedOnes in times of COVID-19. Frontiers in Public Health. 2023;11:1100280. doi:10.3389/fpubh.2023.1100280
+
+40. Hriberšek M, Eibensteiner F, Bukowski N, Yeung AWK, Atanasov AG, Schaden E. Research areas and trends in family-centered care in the 21st century: a bibliometric review. Frontiers in Medicine. 2024;11:1401577. doi:10.3389/fmed.2024.1401577
+
+41. Łapiński M, Kseniuk J, Modzelewski K, Wyszyńska M, Adamska O, Atanasov A, et al. Rare Posterior Dislocation of Mobi-C Cervical Disc: A Case Report and Surgical Resolution. American Journal of Case Reports. 2025;26:e947721. doi:10.12659/AJCR.947721
+
+42. Matin M, Ksepka N, Wysocki K, Mickael ME, Pande A, Horbańczuk JO, et al. Curcumin dietary supplementation enhances serum carbohydrate-degrading enzyme activities in buffaloes. Current Research in Biotechnology. 2025;9:100276. doi:10.1016/j.crbiot.2025.100276
+
+43. Wang X, Xiong Z, Zou K, Srinivasan S, Lo TWS, Wu Y, et al. Reasoning-driven large language models in medicine: opportunities, challenges, and the road ahead. The Lancet Digital Health. 2026;8(1):100931. doi:10.1016/j.landig.2025.100931
+
+44. Urban J, Kareem KY, Atanasov AG, Matuszewski A, Bień D, Ciborowska P, et al. Postbiotics, a natural feed additive for growth performance, gut microbiota and quality of poultry products. Current Research in Biotechnology. 2024;8:100247. doi:10.1016/j.crbiot.2024.100247
+
+45. Tsagkaris C, Matiashova L, Essar MY, Atanasov AG, Head M. No health issue stands alone in Eastern Europe: Monkeypox emergence amidst socioeconomic and political crises. Journal of Medical Virology. 2023;95(1):e28305. doi:10.1002/jmv.28305
+
+46. Matin M, Kapoor B, Gulati M, Mickael ME, Matin FB, Kamińska A, et al. Exploring the innovation landscape of ginger: Insights from patent documentation analysis. Current Research in Biotechnology. 2025;9:100299. doi:10.1016/j.crbiot.2025.100299
+
+47. Tiwary P, Oswal K, Tzvetkov NT, Litvinova O, Atanasov AG, Varghese R. Travel microbiota: a novel frontier in travel medicine exploring microbial shifts across transportation modes. Tropical Diseases, Travel Medicine and Vaccines. 2026;12(1):9. doi:10.1186/s40794-026-00292-5
+
+48. Afaq M, Vashisht K, Al-Dhoon A, Abraham D, Atanasov AG, Matin M, et al. Impact of #PCOSweightloss: A global X hashtag analysis study of weight loss narratives in the PCOS community. Digital Health. 2025;11. doi:10.1177/20552076251314100
+
+49. Rosamystica M, Gore S, Sarangi S, Matin M, Atanasov AG, Arshad Z, et al. Breathing together: A global hashtag analysis of #LungHealth on platform X (formerly Twitter). Digital Health. 2025;11. doi:10.1177/20552076251335717
+
+50. Tzvetkov NT, Peeva MI, Georgieva MG, Deneva V, Balacheva AA, Bogdanov IP, et al. Corrigendum to “Favipiravir vs. Deferiprone: tautomeric, photophysical, in vitro biological studies, and binding interactions with SARS-Cov-2-MPro/ACE2” [Curr. Res. Biotechnol. 7 (2024) 100176] (Current Research in Biotechnology (2024) 7, (S2590262824000029), (10.1016/j.crbiot.2024.100176)). Current Research in Biotechnology. 2025;9:100286. doi:10.1016/j.crbiot.2025.100286
+
+51. Litvinova O, Baral B, Wochele-Thoma T, Matin M, Tzvetkov NT, Adamska O, et al. Efficiency and safety of cannabinoid medical use: an analysis of discussions and observed trends on Instagram. Frontiers in Public Health. 2024;12:1494018. doi:10.3389/fpubh.2024.1494018
+
+52. Urban J, Kareem KY, Atanasov AG, Matuszewski A, Bień D, Ciborowska P, et al. Corrigendum to “Postbiotics, a natural feed additive for growth performance, gut microbiota and quality of poultry products” [Curr. Res. Biotechnol. 8 (2024) 100247] (Current Research in Biotechnology (2024) 8, (S259026282400073X), (10.1016/j.crbiot.2024.100247)). Current Research in Biotechnology. 2025;9:100284. doi:10.1016/j.crbiot.2025.100284
+
+53. Ławiński M, Zadka K, Ksepka N, Matin M, Wysocki K, Karkocha D, et al. Does Resveratrol Impact Oxidative Stress Markers in Patients with Head and Neck Cancer Receiving Home Enteral Nutrition?. Nutrients. 2025;17(3):504. doi:10.3390/nu17030504
+
+54. Religa P, Mickael ME, Kubick N, Gładysz I, Karczewski J, Floretes N, et al. Recovery of TCRαβ but not TCRγδ CDR3 sequences from ancient human whole-genome sequencing data [v. 22 May 2026]. Infection, Genetics and Evolution. 2026;142:105965. doi:10.1016/j.meegid.2026.105965
+
+55. Isacescu E, Chiroi P, Zanoaga O, Nutu A, Budisan L, Pirlog R, et al. Melanoma Cellular Signaling Transduction Pathways Targeted by Polyphenols Action Mechanisms. Antioxidants. 2023;12(2):407. doi:10.3390/antiox12020407
+
+56. Lagoa R, Rajan L, Violante C, Babiaka SB, Marques-da-Silva D, Kapoor B, et al. Application of curcuminoids in inflammatory, neurodegenerative and aging conditions - Pharmacological potential and bioengineering approaches to improve efficiency. Biotechnology Advances. 2025;82:108568. doi:10.1016/j.biotechadv.2025.108568
+
+57. Tzvetkov NT, Peeva MI, Georgieva MG, Deneva V, Balacheva AA, Bogdanov IP, et al. Favipiravir vs. Deferiprone: Tautomeric, photophysical, in vitro biological studies, and binding interactions with SARS-Cov-2-MPro/ACE2. Current Research in Biotechnology. 2024;7:100176. doi:10.1016/j.crbiot.2024.100176
+
+58. Mickael ME, Kubick N, Atanasov AG, Martinek P, Horbańczuk JO, Floretes N, et al. Using Copy Number Variation Data and Neural Networks to Predict Cancer Metastasis Origin Achieves High Area under the Curve Value with a Trade-Off in Precision. Current Issues in Molecular Biology. 2024;46(8):8301-8319. doi:10.3390/cimb46080490
+
+59. Kühl T, Georgieva MG, Hübner H, Lazarova M, Vogel M, Haas B, et al. Neurotensin(8–13) analogs as dual NTS1 and NTS2 receptor ligands with enhanced effects on a mouse model of Parkinson's disease. European Journal of Medicinal Chemistry. 2023;254:115386. doi:10.1016/j.ejmech.2023.115386
+
+60. Lizard G, Sassi K, Mackrill JJ, Ghzaiel I, Meziane S, Hassen E, et al. 7-ketocholesterol as a theranostic target: Potential applications and future perspectives. Chemistry and Physics of Lipids, 276-277, art. no. 105588. 2026. doi:10.1016/j.chemphyslip.2026.105588
+
+61. El Boukhari R, Matin M, Atanasov AG, Fatimi A. Innovative use of Lamiaceae extracts in animal feeding-stuffs and nutritional supplementations: a patent-based analysis. Animal Science Papers and Reports. 2025;43(4):367-384. doi:10.2478/aspr-2025-0025
+
+62. Irfan S, Etekochay MO, Atanasov AG, Prasad VP, Kandimalla R, Mofatteh M, et al. Human olfactory neurosphere-derived cells: a unified tool for neurological disease modelling and neurotherapeutic applications. International journal of surgery (London, England). 2024;110(10):6321-6329. doi:10.1097/JS9.0000000000001460
+
+63. Matin M, Joshi T, Wang D, Tzvetkov NT, Matin FB, Wierzbicka A, et al. Effects of Ginger (Zingiber officinale) on the Hallmarks of Aging. Biomolecules. 2024;14(8):940. doi:10.3390/biom14080940
+
+64. Bartel I, Koszarska M, Strzałkowska N, Tzvetkov NT, Wang D, Horbańczuk JO, et al. Cyanidin-3-O-glucoside as a Nutrigenomic Factor in Type 2 Diabetes and Its Prominent Impact on Health. International Journal of Molecular Sciences. 2023;24(11):9765. doi:10.3390/ijms24119765
+
+65. Kletecka-Pulker M, Völkl-Kernstock S, Atanasov AG, Doppler K, Eitenberger M, Gabriel M, et al. Views on Assisted Suicide and Religious Beliefs. Omega (United States). 2025;91(1):325-341. doi:10.1177/00302228221133895
+
+66. Sundaram AM, Kandukuri MK, Bharathi K, Rock RPM, Sridhar B, Purushotham NA, et al. From ancient roots to modern routes: a systematic review of ginger’s anti-motion sickness efficacy in randomized clinical trials and animal studies. Animal Science Papers and Reports. 2026;44(1):1-16. doi:10.2478/aspr-2026-0001
+
+67. Matin M, Hrg D, Litvinova O, Łysek-Gładysinska M, Wierzbicka A, Horbańczuk JO, et al. The global patent landscape of functional food innovation. Nature Biotechnology. 2024;42(10):1493-1497. doi:10.1038/s41587-024-02410-0
+
+68. Zadka K, Ławiński K, Grodzicka N, Atanasov AG, Ławiński M. Comparing predictive energy-expenditure equations with indirect calorimetry in older adults living in long-term care facilities. Experimental Gerontology. 2026;214:113037. doi:10.1016/j.exger.2026.113037
+
+69. Vejux A, Ghzaiel I, Mackrill JJ, Dias IH, Rezig L, Ksila M, et al. Oxysterols, age-related-diseases and nutritherapy: Focus on 7-ketocholesterol and 7β-hydroxycholesterol. Prostaglandins and Other Lipid Mediators. 2025;178:106993. doi:10.1016/j.prostaglandins.2025.106993
+
+70. Gherman LM, Zanoaga O, Budisan L, Isachesku E, Lajos R, Ciocan C, et al. Altered miRNA pattern in canine mammary tumors-pilot study. Animal Science Papers and Reports. 2024;42(2):217-230. doi:10.2478/aspr-2023-0032
+
+71. Nury T, Ghzaiel I, Hichami A, Caccia C, Leoni V, Pires V, et al. Lipid droplets dependent or independent cytoprotective activities of unsaturated fatty acids, Lorenzo's oil and sulfo-N-succinimidyl oleate on 7-ketocholesterol-induced oxidative stress, organelle dysfunction and cell death on 158N and ARPE-19 cells: Cell targets and benefits of sulfo-N-succinimidyl oleate. Current Research in Biotechnology. 2024;7:100195. doi:10.1016/j.crbiot.2024.100195
+
+72. Religa P, Mickael ME, Kubick N, Horbańczuk JO, Floretes N, Sacharczuk M, et al. High-fidelity in silico generation and augmentation of TCR repertoire data using generative adversarial networks. Scientific Reports. 2025;15(1):18389. doi:10.1038/s41598-025-01172-2
+
+73. He XQ, Zou HD, Liu Y, Chen XJ, Atanasov AG, Wang XL, et al. Discovery of Curcuminoids as Pancreatic Lipase Inhibitors from Medicine-and-Food Homology Plants. Nutrients. 2024;16(15):2566. doi:10.3390/nu16152566
+
+74. Litvinova O, Klager E, Yeung AWK, Tzvetkov NT, Kimberger O, Kletecka-Pulker M, et al. Bibliometric analysis and evidence of clinical efficacy and safety of digital pills. Frontiers in Pharmacology. 2023;14:1023250. doi:10.3389/fphar.2023.1023250
+
+75. Adamska O, Wnuk A, Kamińska A, Poniatowska M, Maciąg B, Kamiński M, et al. Melatonin supplementation counteracts fiber loss in knee ligaments of diabetes-induced rats. Frontiers in Pharmacology. 2024;15:1399719. doi:10.3389/fphar.2024.1399719
+
+76. Bensz J, Sołdacki D, Ma Z, Matin FB, Matin M, Atanasov AG. Insights from antiaging-related X discussions: A six-year #Longevity hashtag analysis study. Current Research in Biotechnology. 2025;9:100280. doi:10.1016/j.crbiot.2025.100280
+
+77. Arshad Z, Sharma P, Sharma S, Cheema MS, Agarwal C, Tango T, et al. Is global health truly global? A hashtag analysis of #GlobalHealth disparities on X. Frontiers in Public Health. 2024;12:1413556. doi:10.3389/fpubh.2024.1413556
+
+78. Zennouhi W, Addoum B, Bourhia M, Khallouki F, Attaleb M, El Mzibri M, et al. Natural guardians as radioprotective complements in oncological therapy: A review. Pharmacological Research - Natural Products. 2025;9:100441. doi:10.1016/j.prenap.2025.100441
+
+79. Valido E, Boehl G, Krebs J, Pannek J, Stojic S, Atanasov AG, et al. Immune Status of Individuals with Traumatic Spinal Cord Injury: A Systematic Review and Meta-Analysis. International Journal of Molecular Sciences. 2023;24(22):16385. doi:10.3390/ijms242216385
+
+80. Matin M, Matin FB, Ksepka N, Wysocki K, Mickael ME, Wieczorek M, et al. The Clinical Research on Ginger (Zingiber officinale): Insights from ClinicalTrialsgov analysis. Planta Medica. 2024;90(11):834-843. doi:10.1055/a-2357-7064
+
+81. Nury T, Ghzaiel I, Hichami A, Caccia C, Leoni V, Pires V, et al. Corrigendum to “Lipid droplets dependent or independent cytoprotective activities of unsaturated fatty acids, Lorenzo's oil and sulfo-N-succinimidyl oleate on 7-ketocholesterol-induced oxidative stress, organelle dysfunction and cell death on 158N and ARPE-19 cells: Cell targets and benefits of sulfo-N-succinimidyl oleate” [Curr. Res. Biotechnol. 7 (2024) 100195] (Current Research in Biotechnology (2024) 7, (S2590262824000212), (10.1016/j.crbiot.2024.100195)). Current Research in Biotechnology. 2025;9:100285. doi:10.1016/j.crbiot.2025.100285
+
+82. Takeda LN, Omine A, Laurindo LF, Araújo AC, Machado NM, Dias JA, et al. Brazil nut (Bertholletia excelsa Bonpl.) in health and disease: A narrative review. Food Chemistry. 2025;477:143425. doi:10.1016/j.foodchem.2025.143425
+
+83. Radoslavov Pirgozliev V, Whiting IM, Mansbridge SC, Kljak K, de Carvalho Mello HH, Stringhini JH, et al. The use of xylanase enzyme and inulin prebiotic supplementation to support broiler chicken production performance. Archives of Animal Nutrition. 2026;80(1-2):1-16. doi:10.1080/1745039X.2025.2604540
+
+84. Matin M, Koszarska M, Atanasov AG, Król-Szmajda K, Jóźwik A, Stelmasiak A, et al. Bioactive Potential of Algae and Algae-Derived Compounds: Focus on Anti-Inflammatory, Antimicrobial, and Antioxidant Effects. Molecules. 2024;29(19):4695. doi:10.3390/molecules29194695
+
+85. Mickael ME, Kubick N, Miftari K, Horbańczuk JO, Atanasov AG, Binçe K, et al. The Role of Th17/Treg Axis in Retinal Pathology Associated with Diabetes and Treatment Options. Biology. 2025;14(3):275. doi:10.3390/biology14030275
+
+86. El Boukhari R, Matin M, Atanasov AG, Fatimi A. Unlocking the potential of pulegone biomolecule: Innovation trends and insights from patent landscape analysis and review. Journal of Biologically Active Products from Nature. 2025;15(1):1-30. doi:10.1080/22311866.2025.2463020
+
+87. Singla RK, Mondal H, Singla S, De R, Behzad S, Găman MA, et al. Exploring nutritional supplement use for countering respiratory tract infections through an X (formerly Twitter)-based survey. Current Research in Biotechnology. 2025;9:100282. doi:10.1016/j.crbiot.2025.100282
+
+88. Wang X, Sanders HM, Liu Y, Seang K, Tran BX, Atanasov AG, et al. ChatGPT: promise and challenges for deployment in low- and middle-income countries. The Lancet Regional Health - Western Pacific. 2023;41:100905. doi:10.1016/j.lanwpc.2023.100905
+
+89. Kubick N, Łazarczyk M, Awad O, Ławiński M, Horbańczuk JO, Sacharczuk M, et al. The Struggle Between Chimeric Antigen Receptor T-Cell Therapy and Neurological Complications in Acute Lymphoblastic Leukemia Treatment. Current Issues in Molecular Biology. 2025;47(5):381. doi:10.3390/cimb47050381
+
+90. Matin M, Wysocki K, Horbańczuk JO, Rossi L, Atanasov AG. Ginger (Zingiber officinale) dietary supplementation in mice regulates liver antioxidant defense systems in a dose- and age-dependent. Frontiers in Pharmacology. 2025;16:1597599. doi:10.3389/fphar.2025.1597599
+
+91. Jalil B, Rollinger JM, Atanasov AG, Singla RK, Kinghorn AD, Heinrich M. Core publications in drug discovery and natural product research. Frontiers in Natural Products. 2024;3:1493720. doi:10.3389/fntpr.2024.1493720
+
+92. Zhu X, Zhou T, Wang S, Ye B, Singla RK, Tewari D, et al. LC–MS/MS Coupled with Chemometric Analysis as an Approach for the Differentiation of Fritillariae cirrhosae Bulbus and Fritillariae pallidiflorae Bulbus. Separations. 2023;10(2):75. doi:10.3390/separations10020075
+
+93. Matin M, Hrg D, Litvinova O, Łysek-Gładysinska M, Wierzbicka A, Horbańczuk JO, et al. Correction to: The global patent landscape of functional food innovation (Nature Biotechnology, (2024), 42, 10, (1493-1497), 10.1038/s41587-024-02410-0). Nature Biotechnology, 43 (2), pp. 281. 2025. doi:10.1038/s41587-024-02544-1
+
+94. Mickael ME, Kubick N, Dragan M, Atanasov AG, Ławiński M, Paszkiewicz J, et al. The impact of BDNF and CD4 + T cell crosstalk on depression. Immunologic Research. 2024;72(5):883-894. doi:10.1007/s12026-024-09514-4
+
+95. Czollner L, Papaplioura E, Linder T, Liu R, Li Y, Atanasov AG, et al. A silver-coated copper wire as inexpensive drug eluting stent model: determination of the relative releasing properties of leoligin and derivatives. Monatshefte fur Chemie. 2023;154(12):1317-1326. doi:10.1007/s00706-020-02677-4
+
+96. Zhu X, Wang D, Atanasov AG. Corrigendum to “A review: Anti-obesity drug discovery from natural plant metabolites and endogenous peptides” [Curr. Res. Biotechnol. 8 (2024) 100259] (Current Research in Biotechnology (2024) 8, (S2590262824000856), (10.1016/j.crbiot.2024.100259)). Current Research in Biotechnology. 2025;9:100289. doi:10.1016/j.crbiot.2025.100289
+
+97. Chandragiri SS, Baral B, Hammerle FP, Litvinova O, Opriessnig E, Matin M, et al. Exploring #HealthLiteracy on LinkedIn: a first look at health hashtag engagement in a professional social media context. Frontiers in Digital Health. 2025;7:1622983. doi:10.3389/fdgth.2025.1622983
+
+98. Łapiński M, Wyszyńska M, Buzek E, Maciąg G, Maciąg B, Adamska O, et al. Body mass index and lower limb diameters in total knee arthroplasty outcomes and surgical planning. Reumatologia. 2025;63(6):398-404. doi:10.5114/reum/211452
+
+99. Etekochay MO, Amaravadhi AR, González GV, Atanasov AG, Matin M, Mofatteh M, et al. Unveiling New Strategies Facilitating the Implementation of Artificial Intelligence in Neuroimaging for the Early Detection of Alzheimer's Disease. Journal of Alzheimer's Disease. 2024;99(1):1-20. doi:10.3233/JAD-231135
+
+100. Pirgozliev V, Whiting I, Mansbridge S, Kljak K, Enchev S, Atanasov A, et al. Supplementary carbohydrase enzymes increase energy and nutrient availability of diets containing stinging nettle (Urtica dioica) when fed to laying hens. Journal of Animal and Feed Sciences. 2025;34(4):586-592. doi:10.22358/jafs/204037/2025
+
+101. Jakimiuk K, Gesek J, Atanasov AG, Tomczyk M. Flavonoids as inhibitors of human neutrophil elastase. Journal of Enzyme Inhibition and Medicinal Chemistry. 2021;36(1):1016-1028. doi:10.1080/14756366.2021.1927006
+
+102. Kolev T, Peeva MI, Bogdanov IP, Ognyanov IV, Atanasov AG, Tzvetkov NT. The crystal structure of Histidinium hydrogensquarate, C10H11N3O6. Zeitschrift fur Kristallographie - New Crystal Structures. 2022;237(4):601-603. doi:10.1515/ncrs-2022-0181
+
+103. Onaciu A, Munteanu R, Munteanu VC, Gulei D, Raduly L, Feder RI, et al. Spontaneous and Induced Animal Models for Cancer Research. Diagnostics. 2020;10(9):660. doi:10.3390/diagnostics10090660
+
+104. Kletecka-Pulker M, Mondal H, Wang D, Parra RG, Maigoro AY, Lee S, et al. Impacts of biomedical hashtag-based Twitter campaign: #DHPSP utilization for promotion of open innovation in digital health, patient safety, and personalized medicine. Current Research in Biotechnology. 2021;3:146-153. doi:10.1016/j.crbiot.2021.04.004
+
+105. Li C, Li J, Jiang F, Tzvetkov NT, Horbanczuk JO, Li Y, et al. Vasculoprotective effects of ginger (Zingiber officinale Roscoe) and underlying molecular mechanisms. Food and Function. 2021;12(5):1897-1913. doi:10.1039/d0fo02210a
+
+106. Yeung AWK, Parvanov ED, Horbańczuk JO, Kletecka-Pulker M, Kimberger O, Willschke H, et al. Public interest in different types of masks and its relationship with pandemic and policy measures during the COVID-19 pandemic: a study using Google Trends data. Frontiers in Public Health. 2023;11:1010674. doi:10.3389/fpubh.2023.1010674
+
+107. Klionsky DJ, Abdel-Aziz AK, Abdelfatah S, Abdellatif M, Abdoli A, Abel S, et al. Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)1. Autophagy. 2021;17(1):1-382. doi:10.1080/15548627.2020.1797280
+
+108. Wang D, Huang J, Yeung AWK, Tzvetkov NT, Horbańczuk JO, Willschke H, et al. The significance of natural product derivatives and traditional medicine for COVID-19. Processes. 2020;8(8):937. doi:10.3390/pr8080937
+
+109. Mondal H, Parvanov ED, Singla RK, Rayan RA, Nawaz FA, Ritschl V, et al. Twitter-based crowdsourcing: What kind of measures can help to end the COVID-19 pandemic faster?. Frontiers in Medicine. 2022;9:961360. doi:10.3389/fmed.2022.961360
+
+110. Wang D, Zhang L, Huang J, Himabindu K, Tewari D, Horbańczuk JO, et al. Cardiovascular protective effect of black pepper (Piper nigrum L.) and its major bioactive constituent piperine. Trends in Food Science and Technology. 2021;117:34-45. doi:10.1016/j.tifs.2020.11.024
+
+111. Eibensteiner F, Ritschl V, Nawaz FA, Fazel SS, Tsagkaris C, Kulnik ST, et al. People's willingness to vaccinate against COVID-19 despite their safety concerns: Twitter poll analysis. Journal of Medical Internet Research. 2021;23(4):e28973. doi:10.2196/28973
+
+112. Whiting I, Pirgozliev V, Kljak K, Orczewska-Dudek S, Mansbridge S, Rose S, et al. Feeding dihydroquercetin in wheat-based diets to laying hens: impact on egg production and quality of fresh and stored eggs. British Poultry Science. 2022;63(6):735-741. doi:10.1080/00071668.2022.2090229
+
+113. Kletečka-Pulker M, Völkl-Kernstock S, Fassl A, Klager E, Willschke H, Klomfar S, et al. Telehealth in times of covid-19: Spotlight on austria. Healthcare (Switzerland). 2021;9(3):280. doi:10.3390/healthcare9030280
+
+114. Pirgozliev V, Whiting IM, Mansbridge SC, Enchev S, Rose SP, Kljak K, et al. Effect of rearing temperature on physiological measures and antioxidant status of broiler chickens fed stevia (Stevia rebaudiana B.) leaf meal and exogenous xylanase. Current Research in Biotechnology. 2021;3:173-181. doi:10.1016/j.crbiot.2021.05.005
+
+115. Pirgozliev V, Kljak K, Whiting IM, Rose SP, Mansbridge SC, Enchev S, et al. Feeding dry stevia leaf (Stevia rebaudiana) or xylanase improves the hepatic antioxidative status of broiler chickens. Research in Veterinary Science. 2021;136:227-229. doi:10.1016/j.rvsc.2021.03.001
+
+116. Nury T, Yammine A, Ghzaiel I, Sassi K, Zarrouk A, Brahmi F, et al. Attenuation of 7-ketocholesterol- and 7β-hydroxycholesterol-induced oxiapoptophagy by nutrients, synthetic molecules and oils: Potential for the prevention of age-related diseases. Ageing Research Reviews. 2021;68:101324. doi:10.1016/j.arr.2021.101324
+
+117. Wang D, Hiebl V, Schachner D, Ladurner A, Heiss EH, Atanasov AG, et al. Soraphen A enhances macrophage cholesterol efflux via indirect LXR activation and ABCA1 upregulation. Biochemical Pharmacology. 2020;177:114022. doi:10.1016/j.bcp.2020.114022
+
+118. Yeung AWK, Parvanov ED, Horbańczuk JO, Kletecka-Pulker M, Kimberger O, Willschke H, et al. Are dental x-rays safe? Content analysis of English and Chinese YouTube videos. Digital Health. 2023;9. doi:10.1177/20552076231179053
+
+119. Zhubi-Bakija F, Bajraktari G, Bytyçi I, Mikhailidis DP, Henein MY, Latkovskis G, et al. The impact of type of dietary protein, animal versus vegetable, in modifying cardiometabolic risk factors: A position paper from the International Lipid Expert Panel (ILEP). Clinical Nutrition. 2021;40(1):255-276. doi:10.1016/j.clnu.2020.05.017
+
+120. Yeung AWK, Georgieva MG, Kirilov K, Balacheva AA, Peeva MI, Horbańczuk OK, et al. Erratum: Neurotensins and their therapeutic potential: Research field study (Future Medicinal Chemistry (2020) 12:19 (1779-1803) DOI: 10.4155/fmc-2020-0124). Future Medicinal Chemistry, 13 (17), pp. 1491. 2020. doi:10.4155/fmc-2020-0124c1
+
+121. Ziętek M, Barłowska K, Wijas B, Szablisty E, Atanasov AG, Modliński JA, et al. Preconceptional resveratrol supplementation partially counteracts age-related reproductive complications in C57BL/6J female mice. Molecules. 2021;26(7):1934. doi:10.3390/molecules26071934
+
+122. Yeung AWK, Wang D, El-Demerdash A, Horbanczuk OK, Das N, Pirgozliev V, et al. Animal versus human research reporting guidelines impacts: Literature analysis reveals citation count bias. Animal Science Papers and Reports. 2021;39:5-18.
+
+123. Prateeksha, Sharma VK, Liu X, Oyarzún DA, Abdel-Azeem AM, Atanasov AG, et al. Microbial polysaccharides: An emerging family of natural biomaterials for cancer therapy and diagnostics. Seminars in Cancer Biology. 2022;86:706-731. doi:10.1016/j.semcancer.2021.05.021
+
+124. Yeung AWK, Souto EB, Durazzo A, Lucarini M, Novellino E, Tewari D, et al. Big impact of nanoparticles: analysis of the most cited nanopharmaceuticals and nanonutraceuticals research. Current Research in Biotechnology. 2020;2:53-63. doi:10.1016/j.crbiot.2020.04.002
+
+125. Cicero AF, Fogacci F, Hernandez AV, Banach M, Alnouri F, Amar F, et al. Efficacy and safety of bempedoic acid for the treatment of hypercholesterolemia: A systematic review and meta-analysis. PLoS Medicine. 2020;17(7):e1003121. doi:10.1371/journal.pmed.1003121
+
+126. Haque E, Rezaul Karim M, Teeli AS, Śmiech M, Leszczynski P, Winiarczyk D, et al. Molecular mechanisms underlying hepatocellular carcinoma induction by aberrant nrf2 activation-mediated transcription networks: Interaction of nrf2-keap1 controls the fate of hepatocarcinogenesis. International Journal of Molecular Sciences. 2020;21(15):5378,. doi:10.3390/ijms21155378
+
+127. Tancheva L, Lazarova M, Saso L, Kalfin R, Stefanova M, Uzunova D, et al. Beneficial Effect of Melatonin on Motor and Memory Disturbances in 6-OHDA-Lesioned Rats. Journal of Molecular Neuroscience. 2021;71(4):702-712. doi:10.1007/s12031-020-01760-z
+
+128. Kan Yeung AW, Tosevska A, Klager E, Eibensteiner F, Laxar D, Stoyanov J, et al. Virtual and augmented reality applications in medicine: Analysis of the scientific literature. Journal of Medical Internet Research. 2021;23(2):e25499. doi:10.2196/25499
+
+129. Gesek J, Jakimiuk K, Atanasov AG, Tomczyk M. Sanguiins—promising molecules with broad biological potential. International Journal of Molecular Sciences. 2021;22(23):12972. doi:10.3390/ijms222312972
+
+130. Devkota HP, Paudel KR, Lall N, Tomczyk M, Atanasov AG. Editorial: Pharmacology of Plant Polyphenols in Human Health and Diseases. Frontiers in Pharmacology. 2022;13:945033. doi:10.3389/fphar.2022.945033
+
+131. Ruscica M, Penson PE, Ferri N, Sirtori CR, Pirro M, Mancini GJ, et al. Impact of nutraceuticals on markers of systemic inflammation: Potential relevance to cardiovascular diseases – A position paper from the International Lipid Expert Panel (ILEP). Progress in Cardiovascular Diseases. 2021;67:40-52. doi:10.1016/j.pcad.2021.06.010
+
+132. Ennab F, Nawaz FA, Narain K, Nchasi G, Essar MY, Head MG, et al. Monkeypox Outbreaks in 2022: Battling Another “Pandemic” of Misinformation. International Journal of Public Health. 2022;67:1605149. doi:10.3389/ijph.2022.1605149
+
+133. Chopra AS, Lordan R, Horbańczuk OK, Atanasov AG, Chopra I, Horbańczuk JO, et al. The current use and evolving landscape of nutraceuticals. Pharmacological Research. 2022;175:106001. doi:10.1016/j.phrs.2021.106001
+
+134. Yeung AWK, Mocan A, Tzvetkov NT, Šmejkal K, Heiss EH, Atanasov AG. Natural Products, the Continuous Source of Therapeutic Molecules for Various Diseases: Literature Landscape Analysis. Current Molecular Pharmacology. 2021;14(6):993-1002. doi:10.2174/1874467213666201214124327
+
+135. Yeung AWK, Tzvetkov NT, Durazzo A, Lucarini M, Souto EB, Santini A, et al. Natural products in diabetes research: quantitative literature analysis. Natural Product Research. 2021;35(24):5813-5827. doi:10.1080/14786419.2020.1821019
+
+136. Wang D, Chen Z, Wai Kan Yeung A, Atanasov AG. Differences between common endothelial cell models (primary human aortic endothelial cells and EA.hy926 cells) revealed through transcriptomics, bioinformatics, and functional analysis. Current Research in Biotechnology. 2021;3:135-145. doi:10.1016/j.crbiot.2021.05.001
+
+137. Pirgozliev VR, Mansbridge SC, Westbrook CA, Woods SL, Rose SP, Whiting IM, et al. Feeding dihydroquercetin and vitamin E to broiler chickens reared at standard and high ambient temperatures. Archives of Animal Nutrition. 2020;74(6):496-511. doi:10.1080/1745039X.2020.1820807
+
+138. Litvinova O, Bilir A, Parvanov ED, Niebauer J, Kletecka-Pulker M, Kimberger O, et al. Patent landscape review of non-invasive medical sensors for continuous monitoring of blood pressure and their validation in critical care practice. Frontiers in Medicine. 2023;10:1138051. doi:10.3389/fmed.2023.1138051
+
+139. Srivastava S, Usmani Z, Atanasov AG, Singh VK, Singh NP, Abdel-Azeem AM, et al. Biological nanofactories: Using living forms for metal nanoparticle synthesis. Mini-Reviews in Medicinal Chemistry. 2021;21(2):245-265. doi:10.2174/1389557520999201116163012
+
+140. Sun X, Zhang L, Cao Y, Li J, Atanasov AG, Huang L. Anti-neuraminidase activity of chemical constituents of Balanophora involucrata. Biomedical Chromatography. 2020;34(12):e4949. doi:10.1002/bmc.4949
+
+141. Yeung AWK, Tosevska A, Klager E, Eibensteiner F, Tsagkaris C, Parvanov ED, et al. Medical and Health-Related Misinformation on Social Media: Bibliometric Study of the Scientific Literature. Journal of Medical Internet Research. 2022;24(1):e28152. doi:10.2196/28152
+
+142. Kan Yeung AW, Georgieva MG, Kirilov K, Balacheva AA, Peeva MI, Horbańczuk OK, et al. Neurotensins and their therapeutic potential: Research field study. Future Medicinal Chemistry. 2020;12(19):1779-1803. doi:10.4155/fmc-2020-0124
+
+143. Yeung AWK, Tzvetkov NT, El-Demerdash A, Horbanczuk OK, Das N, Pirgozliev V, et al. Apple polyphenols in human and animal health*. Animal Science Papers and Reports. 2021;39(2):105-118.
+
+144. Atanasov AG, Zotchev SB, Dirsch VM, Orhan IE, Banach M, Rollinger JM, et al. Natural products in drug discovery: advances and opportunities. Nature Reviews Drug Discovery. 2021;20(3):200-216. doi:10.1038/s41573-020-00114-z
+
+145. Yeung AWK, Torkamani A, Butte AJ, Glicksberg BS, Schuller B, Rodriguez B, et al. The promise of digital healthcare technologies. Frontiers in Public Health. 2023;11:1196596. doi:10.3389/fpubh.2023.1196596
+
+146. Yeung AWK, Kulnik ST, Parvanov ED, Fassl A, Eibensteiner F, Völkl-Kernstock S, et al. Research on Digital Technology Use in Cardiology: Bibliometric Analysis. Journal of Medical Internet Research. 2022;24(5):e36086. doi:10.2196/36086
+
+147. Hou X, Malainer C, Atanasov AG, Heiß EH, Dirsch VM, Wang L, et al. Evodiamine Lowers Blood Lipids by Up-Regulating the PPARγ/ABCG1 Pathway in High-Fat-Diet-Fed Mice. Journal of Natural Products. 2021;84(12):3110-3116. doi:10.1021/acs.jnatprod.1c00881
+
+148. Litvinova O, Matin FB, Matin M, Zima-Kulisiewicz B, Tomasik C, Siddiquea BN, et al. Patient safety discourse in a pandemic: a Twitter hashtag analysis study on #PatientSafety. Frontiers in Public Health. 2023;11:1268730. doi:10.3389/fpubh.2023.1268730
+
+149. Wang D, Yeung AWK, Atanasov AG. A Review: Molecular Mechanism of Regulation of ABCA1 Expression. Current Protein and Peptide Science. 2022;23(3):170-191. doi:10.2174/1389203723666220429083753
+
+150. Yeung AWK, Parvanov ED, Hribersek M, Eibensteiner F, Klager E, Kletecka-Pulker M, et al. Digital Teaching in Medical Education: Scientific Literature Landscape Review. JMIR Medical Education. 2022;8(1):e32747. doi:10.2196/32747
+
+151. Yeung AWK, Choudhary N, Tewari D, El-Demerdash A, Tomczyk M, Das N, et al. Lycopene: total-scale literature landscape analysis of a valuable nutraceutical with numerous potential applications in the promotion of human and animal health. Animal Science Papers and Reports. 2022;40(2):119-134.
+
+152. Matin M, Joshi T, Greger M, Bin Matin F, Jóźwik A, Wierzbicka A, et al. Use of #NutritionFacts to promote evidence-based nutrition information: X (formerly Twitter) hashtag analysis study. Frontiers in Public Health. 2023;11:1255706. doi:10.3389/fpubh.2023.1255706
+
+153. Huminiecki L, Atanasov AG, Horbańczuk J. Etiology of atherosclerosis informs choice of animal models and tissues for initial functional genomic studies of resveratrol. Pharmacological Research. 2020;156:104598. doi:10.1016/j.phrs.2019.104598
+
+154. Tancheva L, Lazarova M, Velkova L, Dolashki A, Uzunova D, Minchev B, et al. Beneficial Effects of Snail Helix aspersa Extract in an Experimental Model of Alzheimer's Type Dementia. Journal of Alzheimer's Disease. 2022;88(1):155-175. doi:10.3233/JAD-215693
+
+155. Koszarska M, Zdanowska-Sąsiadek Ż, Marchewka J, Bartel I, Wysocki K, Horbańczuk JO, et al. The effect of dried ostrich meat in young rats’ diet on selected hematological blood parameters. Animal Science Papers and Reports. 2022;40(4):479-486.
+
+156. Khan H, Pervaiz A, Intagliata S, Das N, Nagulapalli Venkata KC, Atanasov AG, et al. The analgesic potential of glycosides derived from medicinal plants. DARU, Journal of Pharmaceutical Sciences. 2020;28(1):387-401. doi:10.1007/s40199-019-00319-7
+
+157. Tan PX, Thiyagarasaiyar K, Tan CY, Jeon YJ, Nadzir MSM, Wu YJ, et al. Algae-derived anti-inflammatory compounds against particulate matters-induced respiratory diseases: A systematic review. Marine Drugs. 2021;19(6):317. doi:10.3390/md19060317
+
+158. Tewari D, Jóźwik A, Łysek-Gładysińska M, Grzybek W, Adamus-Białek W, Bicki J, et al. Fenugreek (Trigonella foenum-graecum l.) seeds dietary supplementation regulates liver antioxidant defense systems in aging mice. Nutrients. 2020;12(9):2552,. doi:10.3390/nu12092552
+
+159. Litvinova O, Klager E, Tzvetkov NT, Kimberger O, Kletecka-Pulker M, Willschke H, et al. Digital Pills with Ingestible Sensors: Patent Landscape Analysis. Pharmaceuticals. 2022;15(8):1025. doi:10.3390/ph15081025
+
+160. Rani P, Kapoor B, Gulati M, Atanasov AG, Alzahrani Q, Gupta R. Antimicrobial peptides: A plausible approach for COVID-19 treatment. Expert Opinion on Drug Discovery. 2022;17(5):473-487. doi:10.1080/17460441.2022.2050693
+
+161. Willschke H, Wochele-Thoma T, Atanasov AG, Klager E, Haslinger C, Kletecka-Pulker M, et al. Can we protect those we care for in a pandemic? - Prevalence of neutralizing antibodies against SARSCoV-2 in nursing homes. Aging and Disease. 2021;12(3):710-717. doi:10.14336/AD.2021.0217
+
+162. Nawaz FA, Barr AA, Desai MY, Tsagkaris C, Singh R, Klager E, et al. Promoting Research, Awareness, and Discussion on AI in Medicine Using #MedTwitterAI: A Longitudinal Twitter Hashtag Analysis. Frontiers in Public Health. 2022;10:856571. doi:10.3389/fpubh.2022.856571
+
+163. Ritschl V, Eibensteiner F, Mosor E, Omara M, Sperl L, Nawaz FA, et al. Mandatory Vaccination Against COVID-19: Twitter Poll Analysis on Public Health Opinion. JMIR Formative Research. 2022;6(6):e35754. doi:10.2196/35754
+
+164. Nawaz FA, Riaz MMA, Tsagkaris C, Faisal UH, Klager E, Kletecka-Pulker M, et al. Impact of #PsychTwitter in promoting global psychiatry: A hashtag analysis study. Frontiers in Public Health. 2023;11:1065368. doi:10.3389/fpubh.2023.1065368
+
+165. Durazzo A, Nazhand A, Lucarini M, Atanasov AG, Souto EB, Novellino E, et al. An updated overview on nanonutraceuticals: Focus on nanoprebiotics and nanoprobiotics. International Journal of Molecular Sciences. 2020;21(7):2285. doi:10.3390/ijms21072285
+
+166. Kaur R, Rani P, Atanasov AG, Alzahrani Q, Gupta R, Kapoor B, et al. Discovery and Development of Antibacterial Agents: Fortuitous and Designed. Mini-Reviews in Medicinal Chemistry. 2022;22(7):984-1029. doi:10.2174/1570193X19666211221150119
+
+167. Pferschy-Wenzig EM, Ortmann S, Atanasov AG, Hellauer K, Hartler J, Kunert O, et al. Characterization of Constituents with Potential Anti-Inflammatory Activity in Chinese Lonicera Species by UHPLC-HRMS Based Metabolite Profiling. Metabolites. 2022;12(4):288. doi:10.3390/metabo12040288
+
+168. Yeung AWK, Choudhary N, Tewari D, El-Demerdash A, Horbanczuk OK, Das N, et al. Quercetin: Total-scale literature landscape analysis of a valuable nutraceutical with numerous potential applications in the promotion of human and animal health a review. Animal Science Papers and Reports. 2021;39(3):199-212.
+
+169. Litvinova O, Eitenberger M, Bilir A, Yeung AWK, Parvanov ED, MohanaSundaram A, et al. Patent analysis of digital sensors for continuous glucose monitoring. Frontiers in Public Health. 2023;11:1205903. doi:10.3389/fpubh.2023.1205903
+
+170. Mozos I, Flangea C, Vlad DC, Gug C, Mozos C, Stoian D, et al. Effects of anthocyanins on vascular health. Biomolecules. 2021;11(6):811. doi:10.3390/biom11060811
+
+171. Ghareeb MA, Tammam MA, El-Demerdash A, Atanasov AG. Insights about clinically approved and Preclinically investigated marine natural products. Current Research in Biotechnology. 2020;2:88-102. doi:10.1016/j.crbiot.2020.09.001
+
+172. Ladurner A, Linder T, Wang L, Hiebl V, Schuster D, Schnürch M, et al. Characterization of a structural leoligin analog as farnesoid X receptor agonist and modulator of cholesterol transport. Planta Medica. 2020;86(15):1097-1107. doi:10.1055/a-1171-8357
+
+173. Yeung AWK, Ksepka N, Matin M, Wang D, Souto EB, Stoyanov J, et al. Dietary factors in nonalcoholic fatty liver disease: impacts on human and animal health-a review. Animal Science Papers and Reports. 2023;41(3):179-194. doi:10.2478/aspr-2023-0007
+
+174. Yeung AWK, Kletecka-Pulker M, Eibensteiner F, Plunger P, Völkl-Kernstock S, Willschke H, et al. Implications of Twitter in Health-Related Research: A Landscape Analysis of the Scientific Literature. Frontiers in Public Health. 2021;9:654481. doi:10.3389/fpubh.2021.654481
+
+175. Pop-Bica C, Ciocan CA, Braicu C, Haranguș A, Simon M, Nutu A, et al. Next-Generation Sequencing in Lung Cancer Patients: A Comparative Approach in NSCLC and SCLC Mutational Landscapes. Journal of Personalized Medicine. 2022;12(3):453. doi:10.3390/jpm12030453
+
+176. Yeung AWK, Parvanov ED, Nawaz FA, Rayan RA, Kletecka-Pulker M, Willschke H, et al. COVID-19 Rapid Antigen Tests: Bibliometric Analysis of the Scientific Literature. International Journal of Environmental Research and Public Health. 2022;19(19):12493. doi:10.3390/ijerph191912493
+
+177. Gupta A, Atanasov AG, Li Y, Kumar N, Bishayee A. Chlorogenic acid for cancer prevention and therapy: Current status on efficacy and mechanisms of action. Pharmacological Research. 2022;186:106505. doi:10.1016/j.phrs.2022.106505
+
+178. Bartel I, Koszarska M, Wysocki K, Kozłowska M, Szumacher-Strabel M, Cieślak A, et al. Effect of Dried Apple Pomace (DAP) as a Feed Additive on Antioxidant System in the Rumen Fluid. International Journal of Molecular Sciences. 2022;23(18):10475. doi:10.3390/ijms231810475
+
+179. Mondal A, Banerjee S, Bose S, Das PP, Sandberg EN, Atanasov AG, et al. Cancer Preventive and Therapeutic Potential of Banana and Its Bioactive Constituents: A Systematic, Comprehensive, and Mechanistic Review. Frontiers in Oncology. 2021;11:697143. doi:10.3389/fonc.2021.697143
+
+180. Farha AK, Gan RY, Li HB, Wu DT, Atanasov AG, Gul K, et al. The anticancer potential of the dietary polyphenol rutin: Current status, challenges, and perspectives. Critical Reviews in Food Science and Nutrition. 2022;62(3):832-859. doi:10.1080/10408398.2020.1829541
+
+181. Horbańczuk OK, Jóźwik A, Wyrwisz J, Marchewka J, Atanasov AG, Wierzbicka A. The activity of chosen antioxidant enzymes in ostrich meat in relation to the type of packaging and storage time in refrigeration. Biomolecules. 2021;11(9):1338. doi:10.3390/biom11091338
+
+182. Brahmi F, Vejux A, Ghzaiel I, Ksila M, Zarrouk A, Ghrairi T, et al. Role of Diet and Nutrients in SARS-CoV-2 Infection: Incidence on Oxidative Stress, Inflammatory Status and Viral Production. Nutrients. 2022;14(11):2194. doi:10.3390/nu14112194
+
+183. Pirgozliev VR, Whiting IM, Kljak K, Mansbridge SC, Atanasov AG, Rose SP, et al. Stevia (Stevia rebaudiana) Improves Carotenoid Content in Eggs When Fed to Laying Hens. Foods. 2022;11(10):1418. doi:10.3390/foods11101418
+
+184. Zielińska A, Eder P, Karczewski J, Szalata M, Hryhorowicz S, Wielgus K, et al. Tocilizumab-coated solid lipid nanoparticles loaded with cannabidiol as a novel drug delivery strategy for treating COVID-19: A review. Frontiers in Immunology. 2023;14:1147991. doi:10.3389/fimmu.2023.1147991
+
+185. Brahmi F, Haddad S, Bouamara K, Yalaoui-Guellal D, Prost-Camus E, de Barros JPP, et al. Comparison of chemical composition and biological activities of Algerian seed oils of Pistacia lentiscus L., Opuntia ficus indica (L.) mill. and Argania spinosa L. Skeels. Industrial Crops and Products. 2020;151:112456. doi:10.1016/j.indcrop.2020.112456
+
+186. Yeung AWK, Wochele-Thoma T, Eibensteiner F, Klager E, Hribersek M, Parvanov ED, et al. Official Websites Providing Information on COVID-19 Vaccination: Readability and Content Analysis. JMIR Public Health and Surveillance. 2022;8(3):e34003. doi:10.2196/34003
+
+187. Singla RK, De R, Efferth T, Mezzetti B, Sahab Uddin M, Sanusi, et al. The International Natural Product Sciences Taskforce (INPST) and the power of Twitter networking exemplified through #INPST hashtag analysis. Phytomedicine. 2023;108:154520. doi:10.1016/j.phymed.2022.154520
+
+188. Yeung AWK, Atanasov AG, Sheridan H, Klager E, Eibensteiner F, Völkl-Kernsock S, et al. Open Innovation in Medical and Pharmaceutical Research: A Literature Landscape Analysis. Frontiers in Pharmacology. 2021;11:587526. doi:10.3389/fphar.2020.587526
+
+189. Tewari D, Atanasov AG, Semwal P, Wang D. Natural products and their applications. Current Research in Biotechnology. 2021;3:82-83. doi:10.1016/j.crbiot.2021.03.002
+
+190. Eneva K, Apostolov A, Nedeva R, Atanasov AG, Szostak B, Stoikova R. Influence of mc4r mutations in traits of tested danube white purebred pigs. Bulgarian Journal of Agricultural Science. 2021;27(2):374-378.
+
+191. Wang D, Huang J, Gui T, Yang Y, Feng T, Tzvetkov NT, et al. SR-BI as a target of natural products and its significance in cancer. Seminars in Cancer Biology. 2022;80:18-38. doi:10.1016/j.semcancer.2019.12.025
+
+192. Souto EB, Barbosa CI, Baldim I, Campos JR, Fernandes AR, Mazzola PG, et al. Modified Drug Delivery Systems for Veterinary Use: Pharmaceutical Development and Applications. Current Bioactive Compounds. 2023;19(1):e040422203061,. doi:10.2174/1573407218666220404110837
+
+193. Essar MY, Lal A, Ahmad S, Nawaz FA, Kacimi SEO, Shah J, et al. Challenging the Illusion: Health Equity Amidst New Variants. International Journal of Public Health. 2022;67:1604896. doi:10.3389/ijph.2022.1604896
+
+194. Atanasov AG, Yeung AWK, Klager E, Eibensteiner F, Schaden E, Kletecka-Pulker M, et al. First, Do No Harm (Gone Wrong): Total-Scale Analysis of Medical Errors Scientific Literature. Frontiers in Public Health. 2020;8:558913. doi:10.3389/fpubh.2020.558913
+
+195. Souto EB, Severino P, Marques C, Andrade LN, Durazzo A, Lucarini M, et al. Croton argyrophyllus Kunth essential oil-loaded solid lipid nanoparticles: Evaluation of release profile, antioxidant activity and cytotoxicity in a neuroblastoma cell line. Sustainability (Switzerland). 2020;12(18):7697. doi:10.3390/su12187697
+
+196. Pirgozliev V, Mansbridge SC, Whiting IM, Arthur C, Rose SP, Atanasov AG. Antioxidant status and growth performance of broiler chickens fed diets containing graded levels of supplementary dihydroquercetin. Research in Veterinary Science. 2021;141:63-65. doi:10.1016/j.rvsc.2021.10.001
+
+197. Yeung AWK, Kletecka-Pulker M, Klager E, Eibensteiner F, Doppler K, El-Kerdi A, et al. Patient Safety and Legal Regulations: A Total-Scale Analysis of the Scientific Literature. Journal of Patient Safety, 18 (7), pp. E1116 - E1123. 2022. doi:10.1097/PTS.0000000000001040
+
+198. Linder T, Papaplioura E, Ogurlu D, Geyrhofer S, Hummelbrunner S, Schachner D, et al. Investigation of Leoligin Derivatives as NF-κB Inhibitory Agents. Biomedicines. 2022;10(1):62. doi:10.3390/biomedicines10010062
+
+199. Penson PE, Bruckert E, Marais D, Reiner Ž, Pirro M, Sahebkar A, et al. Step-by-step diagnosis and management of the nocebo/drucebo effect in statin-associated muscle symptoms patients: a position paper from the International Lipid Expert Panel (ILEP). Journal of Cachexia, Sarcopenia and Muscle. 2022;13(3):1596-1622. doi:10.1002/jcsm.12960
+
+200. Yeung AWK, Tzvetkov NT, Georgieva MG, Ognyanov IV, Kordos K, Józwik A, et al. Reactive Oxygen Species and Their Impact in Neurodegenerative Diseases: Literature Landscape Analysis. Antioxidants and Redox Signaling. 2021;34(5):402-420. doi:10.1089/ars.2019.7952
+
+201. Tang GY, Meng X, Gan RY, Zhao CN, Liu Q, Feng YB, et al. Health functions and related molecular mechanisms of tea components: An update review. International Journal of Molecular Sciences. 2019;20(24):6196. doi:10.3390/ijms20246196
+
+202. Yang Y, Kanev D, Nedeva R, Jozwik A, Rollinger JM, Grzybek W, et al. Black pepper dietary supplementation increases high-density lipoprotein (HDL) levels in pigs. Current Research in Biotechnology. 2019;1:28-33. doi:10.1016/j.crbiot.2019.08.002
+
+203. Linder T, Geyrhofer S, Papaplioura E, Wang L, Atanasov AG, Stuppner H, et al. Design and synthesis of a compound library exploiting 5-methoxyleoligin as potential cholesterol efflux promoter. Molecules. 2020;25(3):662. doi:10.3390/molecules25030662
+
+204. Yeung AWK, Aggarwal BB, Barreca D, Battino M, Belwal T, Horbańczuk OK, et al. Dietary natural products and their potential to influence health and disease including animal model studies. Animal Science Papers and Reports. 2019;36(4):345-358.
+
+205. Liu R, Heiss EH, Waltenberger B, Blažević T, Schachner D, Jiang B, et al. Constituents of Mediterranean Spices Counteracting Vascular Smooth Muscle Cell Proliferation: Identification and Characterization of Rosmarinic Acid Methyl Ester as a Novel Inhibitor. Molecular Nutrition and Food Research. 2018;62(7):1700860. doi:10.1002/mnfr.201700860
+
+206. Mahomoodally MF, Vlaisavljevic S, Berezni S, Abdallah HH, Zengin G, Atanasov AG, et al. Lotus aegaeus (Gris.) Boiss and Iberis sempervirens L.: Chemical fingerprints, antioxidant potential, and inhibition activities and docking on key enzymes linked to global health problems. Industrial Crops and Products. 2018;120:271-278. doi:10.1016/j.indcrop.2018.04.056
+
+207. Mao QQ, Xu XY, Shang A, Gan RY, Wu DT, Atanasov AG, et al. Phytochemicals for the prevention and treatment of gastric cancer: Effects and mechanisms. International Journal of Molecular Sciences. 2020;21(2):570. doi:10.3390/ijms21020570
+
+208. Pogorzelska-Nowicka E, Atanasov AG, Horbańczuk J, Wierzbicka A. Bioactive compounds in functional meat products. Molecules. 2018;23(2):307. doi:10.3390/molecules23020307
+
+209. Mozos I, Stoian D, Caraba A, Malainer C, Horbanczuk JO, Atanasov AG. Lycopene and vascular health. Frontiers in Pharmacology. 2018;9(MAY):521. doi:10.3389/fphar.2018.00521
+
+210. Rigon RB, Fachinetti N, Severino P, Durazzo A, Lucarini M, Atanasov AG, et al. Quantification of trans-resveratrol-loaded solid lipid nanoparticles by a validated reverse-phase HPLC photodiode array. Applied Sciences (Switzerland). 2019;9(22):4961. doi:10.3390/APP9224961
+
+211. Tancheva LP, Lazarova MI, Alexandrova AV, Dragomanova ST, Nicoletti F, Tzvetanova ER, et al. Neuroprotective mechanisms of three natural antioxidants on a rat model of parkinson’s disease: A comparative study. Antioxidants. 2020;9(1):49. doi:10.3390/antiox9010049
+
+212. El-Demerdash A, Atanasov AG, Horbanczuk OK, Tammam MA, Abdel-Mogib M, Hooper JN, et al. Chemical diversity and biological activities of marine sponges of the genus Suberea: A systematic review. Marine Drugs. 2019;17(2):115. doi:10.3390/md17020115
+
+213. Souto EB, Zielinska A, Souto SB, Durazzo A, Lucarini M, Santini A, et al. (+)-limonene 1,2-epoxide-loaded slns: Evaluation of drug release, antioxidant activity, and cytotoxicity in an HaCaT cell line. International Journal of Molecular Sciences. 2020;21(4):1449. doi:10.3390/ijms21041449
+
+214. Pieczynska MD, Yang Y, Petrykowski S, Horbanczuk OK, Atanasov AG, Horbanczuk JO. Gut microbiota and its metabolites in atherosclerosis development. Molecules. 2020;25(3):594. doi:10.3390/molecules25030594
+
+215. Horbańczuk OK, Kurek MA, Atanasov AG, Brnčić M, Brnčić SR. The effect of natural antioxidants on quality and shelf life of beef and beef products. Food Technology and Biotechnology. 2019;57(4):439-447. doi:10.17113/ftb.57.04.19.6267
+
+216. Horbańczuk OK, Moczkowska M, Marchewka J, Atanasov AG, Kurek MA. The composition of fatty acids in ostrich meat influenced by the type of packaging and refrigerated storage. Molecules. 2019;24(22):4128. doi:10.3390/molecules24224128
+
+217. Wang D, Yang Y, Lei Y, Tzvetkov NT, Liu X, Kan Yeung AW, et al. Targeting foam cell formation in atherosclerosis: Therapeutic potential of natural products. Pharmacological Reviews. 2019;71(4):596-670. doi:10.1124/pr.118.017178
+
+218. Budisan L, Gulei D, Jurj A, Braicu C, Zanoaga O, Cojocneanu R, et al. Inhibitory effect of CAPE and kaempferol in colon cancer cell lines—possible implications in new therapeutic strategies. International Journal of Molecular Sciences. 2019;20(5):1199. doi:10.3390/ijms20051199
+
+219. Yeung AWK, Mocan A, Atanasov AG. Let food be thy medicine and medicine be thy food: A bibliometric analysis of the most cited papers focusing on nutraceuticals and functional foods. Food Chemistry. 2018;269:455-465. doi:10.1016/j.foodchem.2018.06.139
+
+220. Yeung AWK, Tzvetkov NT, Zengin G, Wang D, Xu S, Mitrović G, et al. The berries on the top. Journal of Berry Research. 2019;9(1):125-139. doi:10.3233/JBR-180357
+
+221. Abdel-Daim MM, El-Tawil OS, Bungau SG, Atanasov AG. Applications of Antioxidants in Metabolic Disorders and Degenerative Diseases: Mechanistic Approach. Oxidative Medicine and Cellular Longevity. 2019;2019:4179676. doi:10.1155/2019/4179676
+
+222. Tewari D, Stankiewicz AM, Mocan A, Sah AN, Tzvetkov NT, Huminiecki L, et al. Ethnopharmacological approaches for dementia therapy and significance of natural products and herbal drugs. Frontiers in Aging Neuroscience. 2018;10(FEB):3. doi:10.3389/fnagi.2018.00003
+
+223. Atanasov AG, Sabharanjak SM, Zengin G, Mollica A, Szostak A, Simirgiotis M, et al. Pecan nuts: A review of reported bioactivities and health effects. Trends in Food Science and Technology. 2018;71:246-257. doi:10.1016/j.tifs.2017.10.019
+
+224. Mondal A, Gandhi A, Fimognari C, Atanasov AG, Bishayee A. Alkaloids for cancer prevention and therapy: Current progress and future perspectives. European Journal of Pharmacology. 2019;858:172472. doi:10.1016/j.ejphar.2019.172472
+
+225. El-Demerdash A, Tammam MA, Atanasov AG, Hooper JNA, Al-Mourabit A, Kijjoa A. Chemistry and biological activities of the marine sponges of the genera mycale (Arenochalina), Biemna and Clathria. Marine Drugs. 2018;16(6):214. doi:10.3390/md16060214
+
+226. Günther S, Fagone P, Jalce G, Atanasov AG, Guignabert C, Nicoletti F. Role of MIF and D-DT in immune-inflammatory, autoimmune, and chronic respiratory diseases: from pathogenic factors to therapeutic targets. Drug Discovery Today. 2019;24(2):428-439. doi:10.1016/j.drudis.2018.11.003
+
+227. Souto EB, da Ana R, Souto SB, Zielińska A, Marques C, Andrade LN, et al. In vitro characterization, modelling, and antioxidant properties of polyphenon-60 from green tea in eudragit s100-2 chitosan microspheres. Nutrients. 2020;12(4):967. doi:10.3390/nu12040967
+
+228. Tzvetkov NT, Stammler HG, Georgieva MG, Russo D, Faraone I, Balacheva AA, et al. Carboxamides vs. methanimines: Crystal structures, binding interactions, photophysical studies, and biological evaluation of (indazole-5-yl)methanimines as monoamine oxidase B and acetylcholinesterase inhibitors. European Journal of Medicinal Chemistry. 2019;179:404-422. doi:10.1016/j.ejmech.2019.06.041
+
+229. Józwik A, Marchewka J, Strzałkowska N, Horbanczuk JO, Szumacher-Strabel M, Cieslak A, et al. The effect of different levels of Cu, Zn and Mn nanoparticles in hen turkey diet on the activity of aminopeptidases. Molecules. 2018;23(5):1150. doi:10.3390/molecules23051150
+
+230. Dey P, Kundu A, Chakraborty HJ, Kar B, Choi WS, Lee BM, et al. Therapeutic value of steroidal alkaloids in cancer: Current trends and future perspectives. International Journal of Cancer. 2019;145(7):1731-1744. doi:10.1002/ijc.31965
+
+231. Braicu C, Buse M, Busuioc C, Drula R, Gulei D, Raduly L, et al. A comprehensive review on MAPK: A promising therapeutic target in cancer. Cancers. 2019;11(10):1618. doi:10.3390/cancers11101618
+
+232. Valenti D, Braidy N, De Rasmo D, Signorile A, Rossi L, Atanasov A, et al. Mitochondria as pharmacological targets in Down syndrome. Free Radical Biology and Medicine. 2018;114:69-83. doi:10.1016/j.freeradbiomed.2017.08.014
+
+233. Cătană CS, Atanasov AG, Berindan-Neagoe I. Natural products with anti-aging potential: Affected targets and molecular mechanisms. Biotechnology Advances. 2018;36(6):1649-1656. doi:10.1016/j.biotechadv.2018.03.012
+
+234. Souto EB, Souto SB, Zielinska A, Durazzo A, Lucarini M, Santini A, et al. Perillaldehyde 1,2-epoxide loaded SLN-tailored mAb: Production, physicochemical characterization and in vitro cytotoxicity profile in MCF-7 cell lines. Pharmaceutics. 2020;12(2):161. doi:10.3390/pharmaceutics12020161
+
+235. Breuss JM, Atanasov AG, Uhrin P. Resveratrol and its effects on the vascular system. International Journal of Molecular Sciences. 2019;20(7):1523. doi:10.3390/ijms20071523
+
+236. Yeung AWK, Orhan IE, Aggarwal BB, Battino M, Belwal T, Bishayee A, et al. Berberine, a popular dietary supplement for human and animal health: Quantitative research literature analysis – a review. Animal Science Papers and Reports. 2020;38(1):5-19.
+
+237. Wang D, Heiss E, Šmejkal K, Atanasov AG. Bioactive molecules and their mechanisms of action. Molecules. 2019;24(20):3752. doi:10.3390/molecules24203752
+
+238. Zhang X, Wang D, Ren X, Atanasov AG, Zeng R, Huang L. System bioinformatic approach through molecular docking, network pharmacology and microarray data analysis to determine the molecular mechanism underlying the effects of rehmanniae radix praeparata on cardiovascular diseases. Current Protein and Peptide Science. 2019;20(10):964-975. doi:10.2174/1389203720666190610161535
+
+239. Atanasov AG, Yeung AWK, Banach M. Natural products for targeted therapy in precision medicine. Biotechnology Advances. 2018;36(6):1559-1562. doi:10.1016/j.biotechadv.2018.08.003
+
+240. Yeung AWK, Heinrich M, Kijjoa A, Tzvetkov NT, Atanasov AG. The ethnopharmacological literature: An analysis of the scientific landscape. Journal of Ethnopharmacology. 2020;250:112414. doi:10.1016/j.jep.2019.112414
+
+241. Gulei D, Petrut B, Tigu AB, Onaciu A, Fischer-Fodor E, Atanasov AG, et al. Exosomes at a glance–common nominators for cancer hallmarks and novel diagnosis tools. Critical Reviews in Biochemistry and Molecular Biology. 2018;53(5):564-577. doi:10.1080/10409238.2018.1508276
+
+242. Belwal T, Ezzat SM, Rastrelli L, Bhatt ID, Daglia M, Baldi A, et al. A critical analysis of extraction techniques used for botanicals: Trends, priorities, industrial uses and optimization strategies. TrAC - Trends in Analytical Chemistry. 2018;100:82-102. doi:10.1016/j.trac.2017.12.018
+
+243. Nabavi SF, Atanasov AG, Khan H, Barreca D, Trombetta D, Testai L, et al. Targeting ubiquitin-proteasome pathway by natural, in particular polyphenols, anticancer agents: Lessons learned from clinical trials. Cancer Letters. 2018;434:101-113. doi:10.1016/j.canlet.2018.07.018
+
+244. Tzvetkov NT, Stammler HG, Hristova S, Atanasov AG, Antonov L. (Pyrrolo-pyridin-5-yl)benzamides: BBB permeable monoamine oxidase B inhibitors with neuroprotective effect on cortical neurons. European Journal of Medicinal Chemistry. 2019;162:793-809. doi:10.1016/j.ejmech.2018.11.009
+
+245. Battino M, Giampieri F, Pistollato F, Sureda A, de Oliveira MR, Pittalà V, et al. Nrf2 as regulator of innate immunity: A molecular Swiss army knife!. Biotechnology Advances. 2018;36(2):358-370. doi:10.1016/j.biotechadv.2017.12.012
+
+246. Moosavi MA, Haghi A, Rahmati M, Taniguchi H, Mocan A, Echeverría J, et al. Phytochemicals as potent modulators of autophagy for cancer therapy. Cancer Letters. 2018;424:46-69. doi:10.1016/j.canlet.2018.02.030
+
+247. Khan H, Nabavi SM, Sureda A, Mehterov N, Gulei D, Berindan-Neagoe I, et al. Therapeutic potential of songorine, a diterpenoid alkaloid of the genus Aconitum. European Journal of Medicinal Chemistry. 2018;153:29-33. doi:10.1016/j.ejmech.2017.10.065
+
+248. Brown P, Zhou Y, Tan AC, El-Esawi MA, Liehr T, Blanck O, et al. Large expert-curated database for benchmarking document similarity detection in biomedical literature search. Database. 2019;2019:1-67. doi:10.1093/database/baz085
+
+249. Raduly L, Cojocneanu-Petric R, Sarpataki O, Chira S, Atanasov AG, Braicu C, et al. Canis lupus familiaris as relevant animal model for breast cancer - A comparative oncology review. Animal Science Papers and Reports. 2018;36(2):119-148.
+
+250. Yeung AWK, Tzvetkov NT, Balacheva AA, Georgieva MG, Gan RY, Jozwik A, et al. Lignans: Quantitative Analysis of the Research Literature. Frontiers in Pharmacology. 2020;11:37. doi:10.3389/fphar.2020.00037
+
+251. Singh L, Joshi T, Tewari D, Echeverría J, Mocan A, Sah AN, et al. Ethnopharmacological Applications Targeting Alcohol Abuse: Overview and Outlook. Frontiers in Pharmacology. 2020;10:1593. doi:10.3389/fphar.2019.01593
+
+252. Islam MT, Ali ES, Uddin SJ, Islam MA, Shaw S, Khan IN, et al. Andrographolide, a diterpene lactone from Andrographis paniculata and its therapeutic promises in cancer. Cancer Letters. 2018;420:129-145. doi:10.1016/j.canlet.2018.01.074
+
+253. Yeung AWK, Tzvetkov NT, Gupta VK, Gupta SC, Orive G, Bonn GK, et al. Current research in biotechnology: Exploring the biotech forefront. Current Research in Biotechnology. 2019;1:34-40. doi:10.1016/j.crbiot.2019.08.003
+
+254. Wang D, Uhrin P, Mocan A, Waltenberger B, Breuss JM, Tewari D, et al. Vascular smooth muscle cell proliferation as a therapeutic target. Part 1: molecular targets and pathways. Biotechnology Advances. 2018;36(6):1586-1607. doi:10.1016/j.biotechadv.2018.04.006
+
+255. El-Demerdash A, Atanasov AG, Bishayee A, Abdel-Mogib M, Hooper JNA, Al-Mourabit A. Batzella, Crambe and Monanchora: Highly prolific marine sponge genera yielding compounds with potential applications for cancer and other therapeutic areas. Nutrients. 2018;10(1):33. doi:10.3390/nu10010033
+
+256. Michalak B, Piwowarski JP, Granica S, Waltenberger B, Atanasov AG, Khan SY, et al. Eupatoriopicrin inhibits pro-inflammatory functions of neutrophils via suppression of il-8 and tnf-Alpha production and p38 and erk 1/2 map kinases. Journal of Natural Products. 2019;82(2):375-385. doi:10.1021/acs.jnatprod.8b00939
+
+257. Khan H, Amin S, Tewari D, Nabavi SM, Atanasov AG. Plant-derived glycosides with α-glucosidase inhibitory activity: Current standing and future prospects. Endocrine, Metabolic and Immune Disorders - Drug Targets. 2019;19(4):391-401. doi:10.2174/1871530319666181128104831
+
+258. Yeung AWK, Aggarwal BB, Orhan IE, Horbańczuk OK, Barreca D, Battino M, et al. Resveratrol, a popular dietary supplement for human and animal health: Quantitative research literature analysis-a review. Animal Science Papers and Reports. 2019;37(2):103-118.
+
+259. Yeung AWK, Georgieva MG, Atanasov AG, Tzvetkov NT. Monoamine oxidases (MAOs) as privileged molecular targets in neuroscience: Research literature analysis. Frontiers in Molecular Neuroscience. 2019;12:143. doi:10.3389/fnmol.2019.00143
+
+260. Namsi A, Nury T, Khan AS, Leprince J, Vaudry D, Caccia C, et al. Octadecaneuropeptide (ODN) induces N2a cells differentiation through a PKA/PLC/PKC/MEK/ERK-dependent pathway: Incidence on peroxisome, mitochondria, and lipid profiles. Molecules. 2019;24(18):3310. doi:10.3390/molecules24183310
+
+261. Wieczorek A, Lysek-Gladysinska M, Krol T, Kordos K, Kosińska K, Atanasov AG, et al. Biochemical and morphological changes in mouse liver induced by mistletoe toxins. Food and Chemical Toxicology. 2019;129:229-238. doi:10.1016/j.fct.2019.04.044
+
+262. Zimta AA, Cenariu D, Irimie A, Magdo L, Nabavi SM, Atanasov AG, et al. The role of Nrf2 activity in cancer development and progression. Cancers. 2019;11(11):1755. doi:10.3390/cancers11111755
+
+263. Kan Yeung AW, Tzvetkov NT, Atanasov AG. When neuroscience meets pharmacology: A neuropharmacology literature analysis. Frontiers in Neuroscience. 2018;12(NOV):852. doi:10.3389/fnins.2018.00852
+
+264. Pogorzelska-Nowicka E, Godziszewska J, Horbańczuk JO, Atanasov AG, Wierzbicka A. The effect of PUFA-rich plant oils and bioactive compounds supplementation in pig diet on color parameters and myoglobin status in long-frozen pork meat. Molecules. 2018;23(5):1005. doi:10.3390/molecules23051005
+
+265. Yeung AWK, Heinrich M, Atanasov AG. Ethnopharmacology-A bibliometric analysis of a field of research meandering between medicine and food science?. Frontiers in Pharmacology. 2018;9(MAR):215. doi:10.3389/fphar.2018.00215
+
+266. Wang D, Atanasov AG. The microRNAs regulating vascular smooth muscle cell proliferation: A minireview. International Journal of Molecular Sciences. 2019;20(2):324. doi:10.3390/ijms20020324
+
+267. Yeung AWK, Tzvetkov NT, Jóźwik A, Horbanczuk OK, Polgar T, Pieczynska MD, et al. Food toxicology: quantitative analysis of the research field literature. International Journal of Food Sciences and Nutrition. 2020;71(1):13-21. doi:10.1080/09637486.2019.1620184
+
+268. Kan Yeung AW, Tzvetkov NT, El-Tawil OS, Bungǎu SG, Abdel-Daim MM, Atanasov AG. Antioxidants: Scientific literature landscape analysis. Oxidative Medicine and Cellular Longevity. 2019;2019:8278454. doi:10.1155/2019/8278454
+
+269. Wang D, Hiebl V, Xu T, Ladurner A, Atanasov AG, Heiss EH, et al. Impact of natural products on the cholesterol transporter ABCA1. Journal of Ethnopharmacology. 2020;249:112444. doi:10.1016/j.jep.2019.112444
+
+270. Žlabur JŠ, Dobričević N, Brnčić M, Barba FJ, Lorenzo JM, Franco D, et al. Evaluation of the behavior of phenolic compounds and steviol glycosides of sonicated strawberry juice sweetened with stevia (Stevia rebaudiana Bertoni). Molecules. 2019;24(7):1202. doi:10.3390/molecules24071202
+
+271. Yeung AWK, El-Demerdash A, Berindan-Neagoe I, Atanasov AG, Ho YS. Molecular responses of cancers by natural products: Modifications of autophagy revealed by literature analysis. Critical Reviews in Oncogenesis. 2018;23(5-6):347-370. doi:10.1615/CritRevOncog.2018027566
+
+272. Tewari D, Samoila O, Gocan D, Mocan A, Moldovan C, Devkota HP, et al. Medicinal plants and natural products used in cataract management. Frontiers in Pharmacology. 2019;10(JUN):466. doi:10.3389/fphar.2019.00466
+
+273. El Bairi K, Atanasov AG, Amrani M, Afqir S. The arrival of predictive biomarkers for monitoring therapy response to natural compounds in cancer drug discovery. Biomedicine and Pharmacotherapy. 2019;109:2492-2498. doi:10.1016/j.biopha.2018.11.097
+
+274. Uddin MS, Stachowiak A, Al Mamun A, Tzvetkov NT, Takeda S, Atanasov AG, et al. Autophagy and Alzheimer's disease: From molecular mechanisms to therapeutic implications. Frontiers in Aging Neuroscience. 2018;10(JAN):04. doi:10.3389/fnagi.2018.00004
+
+275. Lipińska P, Atanasov AG, Jóźwik A. Effects of polyphenol-rich chokeberry pomace feeding on antioxidant enzymes activity and oxidation-related parameters in lamb muscle tissues. Journal of Berry Research. 2019;9(1):95-108. doi:10.3233/JBR-180333
+
+276. Kan Yeung AW, Horbańczuk M, Tzvetkov NT, Mocan A, Carradori S, Maggi F, et al. Curcumin: Total-scale analysis of the scientific literature. Molecules. 2019;24(7):1393. doi:10.3390/molecules24071393
+
+277. Khan H, Rengasamy KR, Pervaiz A, Nabavi SM, Atanasov AG, Kamal MA. Plant-derived mPGES-1 inhibitors or suppressors: A new emerging trend in the search for small molecules to combat inflammation. European Journal of Medicinal Chemistry. 2018;153:2-28. doi:10.1016/j.ejmech.2017.12.059
+
+278. Joa H, Blažević T, Grojer C, Zeller I, Heiss EH, Atanasov AG, et al. Tylophorine reduces protein biosynthesis and rapidly decreases cyclin D1, inhibiting vascular smooth muscle cell proliferation in vitro and in organ culture. Phytomedicine. 2019;60:152938. doi:10.1016/j.phymed.2019.152938
+
+279. Wang D, özen C, Abu-Reidah IM, Chigurupati S, Patra JK, Horbanczuk JO, et al. Vasculoprotective effects of pomegranate (Punica granatum L.). Frontiers in Pharmacology. 2018;9(MAY):544. doi:10.3389/fphar.2018.00544
+
+280. Yeung AWK, Tzvetkov NT, Arkells N, Milella L, Stankiewicz AM, Huminiecki Ł, et al. Molecular neuroscience at its "high": Bibliometric analysis of the most cited papers on endocannabinoid system, cannabis and cannabinoids. Journal of Cannabis Research. 2019;1(1):4. doi:10.1186/s42238-019-0004-y
+
+281. Atanasov AG. Cardioprotection by black pepper, genome edited crops safety, mobile-based inflammation assay, and other biotech research updates. Current Research in Biotechnology, 1, pp. ii - iii. 2019. doi:10.1016/j.crbiot.2019.11.002
+
+282. Rycek L, Ticli V, Pyszkowski J, Latkolik S, Liu X, Atanasov AG, et al. Stereoselective Synthesis of the Isomers of Notoincisol A: Assigment of the Absolute Configuration of this Natural Product and Biological Evaluation. Journal of Natural Products. 2018;81(11):2419-2428. doi:10.1021/acs.jnatprod.8b00439
+
+283. Banach M, Patti AM, Giglio RV, Cicero AF, Atanasov AG, Bajraktari G, et al. The Role of Nutraceuticals in Statin Intolerant Patients. Journal of the American College of Cardiology. 2018;72(1):96-118. doi:10.1016/j.jacc.2018.04.040
+
+284. Khan H, Marya, Belwal T, Mohd Tariq, Atanasov AG, Devkota HP. Genus Vanda: A review on traditional uses, bioactive chemical constituents and pharmacological activities. Journal of Ethnopharmacology. 2019;229:46-53. doi:10.1016/j.jep.2018.09.031
+
+285. Belwal T, Devkota HP, Hassan HA, Ahluwalia S, Ramadan MF, Mocan A, et al. Phytopharmacology of Acerola (Malpighia spp.) and its potential as functional food. Trends in Food Science and Technology. 2018;74:99-106. doi:10.1016/j.tifs.2018.01.014
+
+286. Islam MT, Ali ES, Uddin SJ, Shaw S, Islam MA, Ahmed MI, et al. Phytol: A review of biomedical activities. Food and Chemical Toxicology. 2018;121:82-94. doi:10.1016/j.fct.2018.08.032
+
+287. Afrin S, Giampieri F, Gasparrini M, Forbes-Hernández TY, Cianciosi D, Reboredo-Rodriguez P, et al. Dietary phytochemicals in colorectal cancer prevention and treatment: A focus on the molecular mechanisms involved. Biotechnology Advances. 2020;38:107322. doi:10.1016/j.biotechadv.2018.11.011
+
+288. Mangano K, Cavalli E, Mammana S, Basile MS, Caltabiano R, Pesce A, et al. Involvement of the Nrf2/HO-1/CO axis and therapeutic intervention with the CO-releasing molecule CORM-A1, in a murine model of autoimmune hepatitis. Journal of Cellular Physiology. 2018;233(5):4156-4165. doi:10.1002/jcp.26223
+
+289. Wang D, Bădărau AS, Swamy MK, Shaw S, Maggi F, da Silva LE, et al. Arctium species secondary metabolites chemodiversity and bioactivities. Frontiers in Plant Science. 2019;10:834. doi:10.3389/fpls.2019.00834
+
+290. Nabavi SM, Nabavi SF, Sureda A, Caprioli G, Iannarelli R, Sokeng AJT, et al. The water extract of tutsan (Hypericum androsaemum L.) red berries exerts antidepressive-like effects and in vivo antioxidant activity in a mouse model of post-stroke depression. Biomedicine and Pharmacotherapy. 2018;99:290-298. doi:10.1016/j.biopha.2018.01.073
+
+291. Linder T, Liu R, Atanasov AG, Li Y, Geyrhofer S, Schwaiger S, et al. Leoligin-inspired synthetic lignans with selectivity for cell-type and bioactivity relevant for cardiovascular disease. Chemical Science. 2019;10(22):5815-5820. doi:10.1039/c9sc00446g
+
+292. Wyrwisz J, Moczkowska M, Kurek MA, Karp S, Atanasov AG, Wierzbicka A. Evaluation of WBSF, color, cooking loss of Longissimus lumborum muscle with fiber optic near-infrared spectroscopy (FT-NIR), depending on aging time. Molecules. 2019;24(4):757. doi:10.3390/molecules24040757
+
+293. Wang D, Hiebl V, Ladurner A, Latkolik SL, Bucar F, Heiß EH, et al. 6-Dihydroparadol, a Ginger Constituent, Enhances Cholesterol Efflux from THP-1-Derived Macrophages. Molecular Nutrition and Food Research. 2018;62(14):1800011. doi:10.1002/mnfr.201800011
+
+294. Gulei D, Mehterov N, Nabavi SM, Atanasov AG, Berindan-Neagoe I. Targeting ncRNAs by plant secondary metabolites: The ncRNAs game in the balance towards malignancy inhibition. Biotechnology Advances. 2018;36(6):1779-1799. doi:10.1016/j.biotechadv.2017.11.003
+
+295. Irimie AI, Ciocan C, Gulei D, Mehterov N, Atanasov AG, Dudea D, et al. Current insights into oral cancer epigenetics. International Journal of Molecular Sciences. 2018;19(3):670. doi:10.3390/ijms19030670
+
+296. Cao SY, Zhao CN, Gan RY, Xu XY, Wei XL, Corke H, et al. Effects and mechanisms of tea and its bioactive compounds for the prevention and treatment of cardiovascular diseases: An updated review. Antioxidants. 2019;8(6):166. doi:10.3390/antiox8060166
+
+297. Wang L, Eftekhari P, Schachner D, Ignatova ID, Palme V, Schilcher N, et al. Novel interactomics approach identifies ABCA1 as direct target of evodiamine, which increases macrophage cholesterol efflux. Scientific Reports. 2018;8(1):11061. doi:10.1038/s41598-018-29281-1
+
+298. Uhrin P, Wang D, Mocan A, Waltenberger B, Breuss JM, Tewari D, et al. Vascular smooth muscle cell proliferation as a therapeutic target. Part 2: Natural products inhibiting proliferation. Biotechnology Advances. 2018;36(6):1608-1621. doi:10.1016/j.biotechadv.2018.04.002
+
+299. Tewari D, Nabavi SF, Nabavi SM, Sureda A, Farooqi AA, Atanasov AG, et al. Targeting activator protein 1 signaling pathway by bioactive natural agents: Possible therapeutic strategy for cancer prevention and intervention. Pharmacological Research. 2018;128:366-375. doi:10.1016/j.phrs.2017.09.014
+
+300. Tzvetkov NT, Atanasov AG. Natural product-based multitargeted ligands for Alzheimer's disease treatment?. Future Medicinal Chemistry. 2018;10(15):1745-1748. doi:10.4155/fmc-2018-0146
+
+301. de Oliveira Filho JWG, Islam MT, Ali ES, Uddin SJ, Santos JVDO, de Alencar MVOB, et al. A comprehensive review on biological properties of citrinin. Food and Chemical Toxicology. 2017;110:130-141. doi:10.1016/j.fct.2017.10.002
+
+302. Ajami M, Pazoki-Toroudi H, Amani H, Nabavi SF, Braidy N, Vacca RA, et al. Therapeutic role of sirtuins in neurodegenerative disease and their modulation by polyphenols. Neuroscience and Biobehavioral Reviews. 2017;73:39-47. doi:10.1016/j.neubiorev.2016.11.022
+
+303. Pferschy-Wenzig EM, Pferschy U, Wang D, Mocan A, Atanasov AG. Does a graphical abstract bring more visibility to your paper?. Molecules. 2016;21(9):1247. doi:10.3390/molecules21091247
+
+304. Odermatt A, Atanasov AG. Mineralocorticoid receptors: Emerging complexity and functional diversity. Steroids. 2009;74(2):163-171. doi:10.1016/j.steroids.2008.10.010
+
+305. Baumgartner RR, Steinmann D, Heiss EH, Atanasov AG, Ganzera M, Stuppner H, et al. Erratum: Bioactivity-guided isolation of 1,2,3,4,6-Penta-O-galloyl-d- glucopyranose from paeonia lactiflora roots as a PTP1B inhibitor (Journal of Natural Products (2010) 73 (1578)). Journal of Natural Products, 73 (10), pp. 1742. 2010. doi:10.1021/np100677c
+
+306. Mozos I, Malainer C, Horbanczuk J, Gug C, Stoian D, Luca CT, et al. Inflammatory markers for arterial stiffness in cardiovascular diseases. Frontiers in Immunology. 2017;8:1058. doi:10.3389/fimmu.2017.01058
+
+307. Pferschy-Wenzig EM, Pferschy U, Wang D, Mocan A, Atanasov AG. Erratum: Pferschy-Wenzig, E.-M.; et al. Does a graphical abstract bring more visibility to your paper? (Molecules (2016) 21 (1247) DOI: 10.3390/molecules21091247). Molecules. 2016;21(12):1676. doi:10.3390/molecules21121676
+
+308. Kozuharova E, Matkowski A, Wozniak D, Simeonova R, Naychov Z, Malainer C, et al. Amorpha fruticosa - A noxious invasive alien plant in Europe or a medicinal plant against metabolic disease?. Frontiers in Pharmacology. 2017;8(JUN):333. doi:10.3389/fphar.2017.00333
+
+309. Atanasov AG, Ignatova ID, Nashev LG, Dick B, Ferrari P, Frey FJ, et al. Impaired protein stability of 11β-hydroxysteroid dehydrogenase type 2: A novel mechanism of apparent mineralocorticoid excess. Journal of the American Society of Nephrology. 2007;18(4):1262-1270. doi:10.1681/ASN.2006111235
+
+310. Wang D, Chen X, Atanasov AG, Yi X, Wang S. Plant resource availability of medicinal fritillaria species in traditional producing regions in qinghai-tibet plateau. Frontiers in Pharmacology. 2017;8(AUG):502. doi:10.3389/fphar.2017.00502
+
+311. Liu X, Latkolik S, Atanasov AG, Kunert O, Pferschy-Wenzig EM, Heiss EH, et al. Bupleurum chinense Roots: A Bioactivity-Guided Approach toward Saponin-Type NF- κ B Inhibitors. Planta Medica. 2017;83(14-15):1242-1250. doi:10.1055/s-0043-118226
+
+312. Wang L, Ladurner A, Latkolik S, Schwaiger S, Linder T, Hošek J, et al. Leoligin, the Major Lignan from Edelweiss (Leontopodium nivale subsp. alpinum), Promotes Cholesterol Efflux from THP-1 Macrophages. Journal of Natural Products. 2016;79(6):1651-1657. doi:10.1021/acs.jnatprod.6b00227
+
+313. Kretschy N, Teichmann M, Kopf S, Atanasov A, Saiko P, Vonach C, et al. In vitro inhibition of breast cancer spheroid-induced lymphendothelial defects resembling intravasation into the lymphatic vasculature by acetohexamide, isoxsuprine, nifedipin and proadifen. British Journal of Cancer. 2013;108(3):570-578. doi:10.1038/bjc.2012.580
+
+314. Putta S, Peluso I, Yarla NS, Kilari EK, Bishayee A, Lu DY, et al. Diabetes mellitus and male aging: Pharmacotherapeutics and clinical implications. Current Pharmaceutical Design. 2017;23(30):4475-4483. doi:10.2174/1381612823666170823103830
+
+315. Wang D, Tosevska A, Heiß EH, Ladurner A, Mölzer C, Wallner M, et al. Bilirubin decreases macrophage cholesterol efflux and ATP-binding cassette transporter A1 protein expression. Journal of the American Heart Association. 2017;6(5):e005520. doi:10.1161/JAHA.117.005520
+
+316. Blažević T, Schaible AM, Weinhäupl K, Schachner D, Nikels F, Weinigel C, et al. Indirubin-3′-monoxime exerts a dual mode of inhibition towards leukotriene-mediated vascular smooth muscle cell migration. Cardiovascular Research. 2014;101(3):522-532. doi:10.1093/cvr/cvt339
+
+317. Heiss EH, Baumgartner L, Schwaiger S, Heredia RJ, Atanasov AG, Rollinger JM, et al. Ratanhiaphenol III from ratanhiae radix is a PTP1B inhibitor. Planta Medica. 2012;78(7):678-681. doi:10.1055/s-0031-1298242
+
+318. Atanasov AG, Nashev LG, Gelman L, Legeza B, Sack R, Portmann R, et al. Direct protein-protein interaction of 11β-hydroxysteroid dehydrogenase type 1 and hexose-6-phosphate dehydrogenase in the endoplasmic reticulum lumen. Biochimica et Biophysica Acta - Molecular Cell Research. 2008;1783(8):1536-1543. doi:10.1016/j.bbamcr.2008.03.001
+
+319. Mair CE, Liu R, Atanasov AG, Wimmer L, Nemetz-Fiedler D, Sider N, et al. Piperine Congeners as Inhibitors of Vascular Smooth Muscle Cell Proliferation. Planta Medica. 2015;81(12-13):1065-1074. doi:10.1055/s-0035-1546165
+
+320. Lipińska P, Atanasov AG, Palka M, Jóźwik A. Chokeberry pomace as a determinant of antioxidant parameters assayed in blood and liver tissue of Polish merino and Wrzosówka lambs. Molecules. 2017;22(11):1461. doi:10.3390/molecules22111461
+
+321. Elsebai MF, Mocan A, Atanasov AG. Cynaropicrin: A comprehensive research review and therapeutic potential as an anti-hepatitis C virus agent. Frontiers in Pharmacology. 2016;7(DEC):472. doi:10.3389/fphar.2016.00472
+
+322. Joa H, Vogl S, Atanasov AG, Zehl M, Nakel T, Fakhrudin N, et al. Identification of ostruthin from peucedanum ostruthium rhizomes as an inhibitor of vascular smooth muscle cell proliferation. Journal of Natural Products. 2011;74(6):1513-1516. doi:10.1021/np200072a
+
+323. Vuorinen A, Engeli RT, Leugger S, Bachmann F, Akram M, Atanasov AG, et al. Potential Antiosteoporotic Natural Product Lead Compounds That Inhibit 17β-Hydroxysteroid Dehydrogenase Type 2. Journal of Natural Products. 2017;80(4):965-974. doi:10.1021/acs.jnatprod.6b00950
+
+324. Liu R, Heiss EH, Sider N, Schinkovitz A, Gröblacher B, Guo D, et al. Identification and characterization of [6]-shogaol from ginger as inhibitor of vascular smooth muscle cell proliferation. Molecular Nutrition and Food Research. 2015;59(5):843-852. doi:10.1002/mnfr.201400791
+
+325. Liu X, Kunert O, Blunder M, Fakhrudin N, Noha SM, Malainer C, et al. Polyyne hybrid compounds from notopterygium incisum with peroxisome proliferator-activated receptor gamma agonistic effects. Journal of Natural Products. 2014;77(11):2513-2521. doi:10.1021/np500605v
+
+326. Blaschke M, McKinnon R, Nguyen CH, Holzner S, Zehl M, Atanasov AG, et al. A eudesmane-type sesquiterpene isolated from Pluchea odorata (L.) Cass. combats three hallmarks of cancer cells: Unrestricted proliferation, escape from apoptosis and early metastatic outgrowth in vitro. Mutation Research - Fundamental and Molecular Mechanisms of Mutagenesis. 2015;777:79-90. doi:10.1016/j.mrfmmm.2015.04.011
+
+327. Wang L, Rotter S, Ladurner A, Heiss EH, Oberlies NH, Dirsch VM, et al. Silymarin constituents enhance ABCA1 expression in THP-1 macrophages. Molecules. 2016;21(1):55. doi:10.3390/molecules21010055
+
+328. Zdanowska-Sasiadek Z, Marchewka J, Horbanczuk JO, Wierzbicka A, Lipinska P, Józwik A, et al. Nutrients composition in fit snacks made from ostrich, beef and chicken dried meat. Molecules. 2018;23(6):1267. doi:10.3390/molecules23061267
+
+329. Tewari D, Mocan A, Parvanov ED, Sah AN, Nabavi SM, Huminiecki L, et al. Ethnopharmacological approaches for therapy of jaundice: Part II. Highly used plant species from Acanthaceae, Euphorbiaceae, Asteraceae, Combretaceae, and Fabaceae families. Frontiers in Pharmacology. 2017;8(AUG):519. doi:10.3389/fphar.2017.00519
+
+330. Rozema E, Atanasov A, Fakhrudin N, Singhuber J, Namduang U, Heiss E, et al. Selected extracts of chinese herbal medicines: Their effect on NF-κB, PPARα and PPARγ and the respective bioactive compounds. Evidence-based Complementary and Alternative Medicine. 2012;2012:983023. doi:10.1155/2012/983023
+
+331. Wang D, Li Z, Zhang L, Atanasov AG, Wang S. Characterization of the Isosteroidal Alkaloid Chuanbeinone from Bulbus of Fritillaria pallidiflora as Novel Antitumor Agent in Vitro and in Vivo. Planta Medica. 2015;82(3):195-204. doi:10.1055/s-0035-1558156
+
+332. Tewari D, Mocan A, Parvanov ED, Sah AN, Nabavi SM, Huminiecki L, et al. Ethnopharmacological approaches for therapy of jaundice: Part I. Frontiers in Pharmacology. 2017;8(AUG):518. doi:10.3389/fphar.2017.00518
+
+333. Heiss EH, Tran TVA, Zimmermann K, Schwaiger S, Vouk C, Mayerhofer B, et al. Identification of chromomoric acid C-I as an Nrf2 activator in Chromolaena odorata. Journal of Natural Products. 2014;77(3):503-508. doi:10.1021/np400778m
+
+334. Zimmermann K, Baldinger J, Mayerhofer B, Atanasov AG, Dirsch VM, Heiss EH. Activated AMPK boosts the Nrf2/HO-1 signaling axis - A role for the unfolded protein response. Free Radical Biology and Medicine. 2015;88(Part B):417-426. doi:10.1016/j.freeradbiomed.2015.03.030
+
+335. Unger C, Kiss I, Vasas A, Lajter I, Kramer N, Atanasov AG, et al. The germacranolide sesquiterpene lactone neurolenin B of the medicinal plant Neurolaena lobata (L.) R.Br. ex Cass inhibits NPM/ALK-driven cell expansion and NF-κB-driven tumour intravasation. Phytomedicine. 2015;22(9):51852,. doi:10.1016/j.phymed.2015.06.003
+
+336. Nguyen CH, Huttary N, Atanasov AG, Chatuphonprasert W, Brenner S, Fristiohady A, et al. Fenofibrate inhibits tumour intravasation by several independent mechanisms in a 3-dimensional co-culture model. International Journal of Oncology. 2017;50(5):1879-1888. doi:10.3892/ijo.2017.3956
+
+337. Schwaiberger AV, Heiss EH, Cabaravdic M, Oberan T, Zaujec J, Schachner D, et al. Indirubin-3′-monoxime blocks vascular smooth muscle cell proliferation by inhibition of signal transducer and activator of transcription 3 signaling and reduces neointima formation in vivo. Arteriosclerosis, Thrombosis, and Vascular Biology. 2010;30(12):2475-2481. doi:10.1161/ATVBAHA.110.212654
+
+338. Nashev LG, Chandsawangbhuwana C, Balazs Z, Atanasov AG, Dick B, Frey FJ, et al. Hexose-6-phosphate dehydrogenase modulates 11β-hydroxysteroid dehydrogenase type 1-dependent metabolism of 7-keto- and 7β-hydroxy-neurosteroids. PLoS ONE. 2007;2(6):e561. doi:10.1371/journal.pone.0000561
+
+339. Huminiecki L, Horbańczuk J, Atanasov AG. The functional genomic studies of curcumin. Seminars in Cancer Biology. 2017;46:107-118. doi:10.1016/j.semcancer.2017.04.002
+
+340. Kumerz M, Heiss EH, Schachner D, Atanasov AG, Dirsch VM. Resveratrol inhibits migration and Rac1 activation in EGF- but not PDGF-activated vascular smooth muscle cells. Molecular Nutrition and Food Research. 2011;55(8):1230-1236. doi:10.1002/mnfr.201100309
+
+341. Pitschmann A, Zehl M, Atanasov AG, Dirsch VM, Heiss E, Glasl S. Walnut leaf extract inhibits PTP1B and enhances glucose-uptake in vitro. Journal of Ethnopharmacology. 2014;152(3):599-602. doi:10.1016/j.jep.2014.02.017
+
+342. Giessrigl B, Yazici G, Teichmann M, Kopf S, Ghassemi S, Atanasov AG, et al. Effects of Scrophularia extracts on tumor cell proliferation, death and intravasation through lymphoendothelial cell barriers. International Journal of Oncology. 2012;40(6):2063-2074. doi:10.3892/ijo.2012.1388
+
+343. Pferschy-Wenzig EM, Atanasov AG, Malainer C, Noha SM, Kunert O, Schuster D, et al. Identification of isosilybin a from milk thistle seeds as an agonist of peroxisome proliferator-activated receptor gamma. Journal of Natural Products. 2014;77(4):842-847. doi:10.1021/np400943b
+
+344. Noha SM, Atanasov AG, Schuster D, Markt P, Fakhrudin N, Heiss EH, et al. Discovery of a novel IKK-β inhibitor by ligand-based virtual screening techniques. Bioorganic and Medicinal Chemistry Letters. 2011;21(1):577-583. doi:10.1016/j.bmcl.2010.10.051
+
+345. Wang L, Wesemann S, Krenn L, Ladurner A, Heiss EH, Dirsch VM, et al. Erythrodiol, an olive oil constituent, increases the half-life of ABCA1 and enhances cholesterol efflux from THP-1-derived macrophages. Frontiers in Pharmacology. 2017;8(JUN):375. doi:10.3389/fphar.2017.00375
+
+346. Ladurner A, Schmitt CA, Schachner D, Atanasov AG, Werner ER, Dirsch VM, et al. Ascorbate stimulates endothelial nitric oxide synthase enzyme activity by rapid modulation of its phosphorylation status. Free Radical Biology and Medicine. 2012;52(10):2082-2090. doi:10.1016/j.freeradbiomed.2012.03.022
+
+347. Mucaji P, Atanasov AG, Bak A, Kozik V, Sieron K, Olsen M, et al. The Forty-Sixth Euro Congress on Drug Synthesis and Analysis: Snapshot †. Molecules. 2017;22(11):1848. doi:10.3390/molecules22111848
+
+348. Jóźwik A, Strzałkowska N, Marchewka J, Horbańczuk O, Szumacher-Srabel M, Cieślak A, et al. The activity of glycosidases in Turkey muscles as influenced by the form and level of Cu, Zn, Mn dietary supplementation. Animal Science Papers and Reports. 2018;36(3):297-310.
+
+349. Wang L, Waltenberger B, Pferschy-Wenzig EM, Blunder M, Liu X, Malainer C, et al. Natural product agonists of peroxisome proliferator-activated receptor gamma (PPARγ): A review. Biochemical Pharmacology. 2014;92(1):73-89. doi:10.1016/j.bcp.2014.07.018
+
+350. Eid HM, Wright ML, Kumar V, Qawasmeh A, Hassan ST, Mocan A, et al. Significance of microbiota in obesity and metabolic diseases and the modulatory potential by medicinal plant and food ingredients. Frontiers in Pharmacology. 2017;8(JUN):387. doi:10.3389/fphar.2017.00387
+
+351. Atanasov AG, Leiser D, Roesselet C, Noti M, Corazza N, Schoonjans K, et al. Cell cycle-dependent regulation of extra-adrenal glucocorticoid synthesis in murine intestinal epithelial cells. FASEB Journal. 2008;22(12):4117-4125. doi:10.1096/fj.08-114157
+
+352. Tran TVA, Malainer C, Schwaiger S, Atanasov AG, Heiss EH, Dirsch VM, et al. NF-κB inhibitors from Eurycoma longifolia. Journal of Natural Products. 2014;77(3):483-488. doi:10.1021/np400701k
+
+353. Atanasov AG, Dzyakanchuk AA, Schweizer RA, Nashev LG, Maurer EM, Odermatt A. Coffee inhibits the reactivation of glucocorticoids by 11β-hydroxysteroid dehydrogenase type 1: A glucocorticoid connection in the anti-diabetic action of coffee?. FEBS Letters. 2006;580(17):4081-4085. doi:10.1016/j.febslet.2006.06.046
+
+354. Waltenberger B, Atanasov AG, Heiss EH, Bernhard D, Rollinger JM, Breuss JM, et al. Drugs from nature targeting inflammation (DNTI): A successful Austrian interdisciplinary network project. Monatshefte fur Chemie. 2016;147(3):479-491. doi:10.1007/s00706-015-1653-y
+
+355. Baumgartner RR, Steinmann D, Heiss EH, Atanasov AG, Ganzera M, Stuppner H, et al. Bioactivity-guided isolation of 1,2,3,4,6-penta-O-galloyl-D-glucopyranose from Paeonia lactiflora roots As a PTP1B inhibitor. Journal of Natural Products. 2010;73(9):1578-1581. doi:10.1021/np100258e
+
+356. Nguyen CH, Brenner S, Huttary N, Atanasov AG, Dirsch VM, Chatuphonprasert W, et al. AHR/CYP1A1 interplay triggers lymphatic barrier breaching in breast cancer spheroids by inducing 12(S)-HETE synthesis. Human Molecular Genetics. 2016;25(22):5006-5016. doi:10.1093/hmg/ddw329
+
+357. Picker P, Vogl S, McKinnon R, Mihaly-Bison J, Binder M, Atanasov AG, et al. Plant extracts in cell-based anti-inflammatory assays - Pitfalls and considerations related to removal of activity masking bulk components. Phytochemistry Letters, 10, pp. xli - xlvii. 2015. doi:10.1016/j.phytol.2014.04.001
+
+358. Atanasov AG, Waltenberger B, Pferschy-Wenzig EM, Linder T, Wawrosch C, Uhrin P, et al. Discovery and resupply of pharmacologically active plant-derived natural products: A review. Biotechnology Advances. 2015;33(8):1582-1614. doi:10.1016/j.biotechadv.2015.08.001
+
+359. Blažević T, Heiss EH, Atanasov AG, Breuss JM, Dirsch VM, Uhrin P. Indirubin and Indirubin Derivatives for Counteracting Proliferative Diseases. Evidence-based Complementary and Alternative Medicine. 2015;2015:654098. doi:10.1155/2015/654098
+
+360. Mueller M, Atanasov A, Cima I, Corazza N, Schoonjans K, Brunner T. Differential regulation of glucocorticoid synthesis in murine intestinal epithelial versus adrenocortical cell lines. Endocrinology. 2007;148(3):1445-1453. doi:10.1210/en.2006-0591
+
+361. Wang L, Palme V, Schilcher N, Ladurner A, Heiss EH, Stangl H, et al. The dietary constituent falcarindiol promotes cholesterol efflux from THP-1 macrophages by increasing ABCA1 gene transcription and protein stability. Frontiers in Pharmacology. 2017;8(SEP):596. doi:10.3389/fphar.2017.00596
+
+362. Oettl SK, Gerstmeier J, Khan SY, Wiechmann K, Bauer J, Atanasov AG, et al. Imbricaric Acid and Perlatolic Acid: Multi-Targeting Anti-Inflammatory Depsides from Cetrelia monachorum. PLoS ONE. 2013;8(10):e76929. doi:10.1371/journal.pone.0076929
+
+363. Waltenberger B, Liu R, Atanasov AG, Schwaiger S, Heiss EH, Dirsch VM, et al. Nonprenylated Xanthones from Gentiana lutea, Frasera caroliniensis, and Centaurium erythraea as Novel Inhibitors of Vascular Smooth Muscle Cell Proliferation. Molecules. 2015;20(11):20381-20390. doi:10.3390/molecules201119703
+
+364. Atanasov AG, Blunder M, Fakhrudin N, Liu X, Noha SM, Malainer C, et al. Polyacetylenes from Notopterygium incisum-New Selective Partial Agonists of Peroxisome Proliferator-Activated Receptor-Gamma. PLoS ONE. 2013;8(4):e61755. doi:10.1371/journal.pone.0061755
+
+365. Braicu C, Mehterov N, Vladimirov B, Sarafian V, Nabavi SM, Atanasov AG, et al. Nutrigenomics in cancer: Revisiting the effects of natural compounds. Seminars in Cancer Biology. 2017;46:84-106. doi:10.1016/j.semcancer.2017.06.011
+
+366. Fakhrudin N, Waltenberger B, Cabaravdic M, Atanasov A, Malainer C, Schachner D, et al. Identification of plumericin as a potent new inhibitor of the NF-κB pathway with anti-inflammatory activity in vitro and in vivo. British Journal of Pharmacology. 2014;171(7):1676-1686. doi:10.1111/bph.12558
+
+367. Liu R, Heiss EH, Schachner D, Jiang B, Liu W, Breuss JM, et al. Xanthohumol Blocks Proliferation and Migration of Vascular Smooth Muscle Cells in Vitro and Reduces Neointima Formation in Vivo. Journal of Natural Products. 2017;80(7):2146-2150. doi:10.1021/acs.jnatprod.7b00268
+
+368. Atanasov AG, Wang JN, Gu SP, Bu J, Kramer MP, Baumgartner L, et al. Honokiol: A non-adipogenic PPARγ agonist from nature. Biochimica et Biophysica Acta - General Subjects. 2013;1830(10):4813-4819. doi:10.1016/j.bbagen.2013.06.021
+
+369. Schreiner CE, Kumerz M, Gesslbauer J, Schachner D, Joa H, Erker T, et al. Resveratrol blocks Akt activation in angiotensin II- or EGF-stimulated vascular smooth muscle cells in a redox-independent manner. Cardiovascular Research. 2011;90(1):140-147. doi:10.1093/cvr/cvq355
+
+370. Singh BN, Prateeksha, Gupta VK, Chen J, Atanasov AG. Organic Nanoparticle-Based Combinatory Approaches for Gene Therapy. Trends in Biotechnology. 2017;35(12):1121-1124. doi:10.1016/j.tibtech.2017.07.010
+
+371. Xie LW, Atanasov AG, Guo DA, Malainer C, Zhang JX, Zehl M, et al. Activity-guided isolation of NF-κB inhibitors and PPARγ agonists from the root bark of Lycium chinense Miller. Journal of Ethnopharmacology. 2014;152(3):470-477. doi:10.1016/j.jep.2014.01.029
+
+372. Ladurner A, Atanasov AG, Heiss EH, Baumgartner L, Schwaiger S, Rollinger JM, et al. 2-(2,4-dihydroxyphenyl)-5-(E)-propenylbenzofuran promotes endothelial nitric oxide synthase activity in human endothelial cells. Biochemical Pharmacology. 2012;84(6):804-812. doi:10.1016/j.bcp.2012.06.029
+
+373. Das N, Atanasov AG, Deb PK, Mocan A, Nabavi SM, Ghosh R, et al. Hepatoprotective naphthalene diglucoside from Neanotis wightiana aerial parts. Phytomedicine. 2017;33:14-20. doi:10.1016/j.phymed.2017.07.002
+
+374. Atanasov AG, Liu R, Heiss EH, Guo D, Dirsch VM. Capsaicin from chili (Capsicum spp.) inhibits vascular smooth muscle cell proliferation. F1000Research. 2015;4. doi:10.12688/f1000research.6007.1
+
+375. Nikzad-Langerodi R, Ortmann S, Pferschy-Wenzig E, Bochkov V, Zhao Y, Miao J, et al. Assessment of anti-inflammatory properties of extracts from Honeysuckle (Lonicera sp. L., Caprifoliaceae) by ATR-FTIR spectroscopy. Talanta. 2017;175:264-272. doi:10.1016/j.talanta.2017.07.045
+
+376. Wang L, Palme V, Rotter S, Schilcher N, Cukaj M, Wang D, et al. Piperine inhibits ABCA1 degradation and promotes cholesterol efflux from THP-1-derived macrophages. Molecular Nutrition and Food Research. 2017;61(4):1500960. doi:10.1002/mnfr.201500960
+
+377. Blaževic T, Schwaiberger AV, Schreiner CE, Schachner D, Schaible AM, Grojer CS, et al. 12/15-lipoxygenase contributes to platelet-derived growth factor-induced activation of signal transducer and activator of Transcription 3. Journal of Biological Chemistry. 2013;288(49):35592-35603. doi:10.1074/jbc.M113.489013
+
+378. Perczel A, Atanasov AG, Sklenář V, Nováček J, Papoušková V, Kadeřávek P, et al. The eighth central european conference "chemistry towards biology": Snapshot. Molecules. 2016;21(10):1381. doi:10.3390/molecules21101381
+
+379. Steinmann D, Baumgartner RR, Heiss EH, Bartenstein S, Atanasov AG, Dirsch VM, et al. Bioguided isolation of (9 Z)-Octadec-9-enoic acid from phellodendron amurense ruprand identification of fatty acids as PTP1B inhibitors. Planta Medica. 2012;78(3):219-224. doi:10.1055/s-0031-1280377
+
+380. Kopf S, Viola K, Atanasov AG, Jarukamjorn K, Rarova L, Kretschy N, et al. In vitro characterisation of the anti-intravasative properties of the marine product heteronemin. Archives of Toxicology. 2013;87(10):1851-1861. doi:10.1007/s00204-013-1045-1
+
+381. Fakhrudin N, Ladurner A, Atanasov AG, Heiss EH, Baumgartner L, Markt P, et al. Computer-aided discovery, validation, and mechanistic characterization of novel neolignan activators of peroxisome proliferator-activated receptor γ. Molecular Pharmacology. 2010;77(4):559-566. doi:10.1124/mol.109.062141
+
+382. Odermatt A, Gumy C, Atanasov AG, Dzyakanchuk AA. Disruption of glucocorticoid action by environmental chemicals: Potential mechanisms and relevance. Journal of Steroid Biochemistry and Molecular Biology. 2006;102(1-5 SPEC. ISS.):222-231. doi:10.1016/j.jsbmb.2006.09.010
+
+383. Holzner S, Brenner S, Atanasov AG, Senfter D, Stadler S, Nguyen CH, et al. Intravasation of SW620 colon cancer cell spheroids through the blood endothelial barrier is inhibited by clinical drugs and flavonoids in vitro. Food and Chemical Toxicology. 2018;111:114-124. doi:10.1016/j.fct.2017.11.015
+
+384. Vogl S, Picker P, Mihaly-Bison J, Fakhrudin N, Atanasov AG, Heiss EH, et al. Ethnopharmacological in vitro studies on Austria's folk medicine - An unexplored lore in vitro anti-inflammatory activities of 71 Austrian traditional herbal drugs. Journal of Ethnopharmacology. 2013;149(3):750-771. doi:10.1016/j.jep.2013.06.007
+
+385. Heiss EH, Liu R, Waltenberger B, Khan S, Schachner D, Kollmann P, et al. Plumericin inhibits proliferation of vascular smooth muscle cells by blocking STAT3 signaling via S-glutathionylation. Scientific Reports. 2016;6:20771. doi:10.1038/srep20771
+
+386. Heiss EH, Kramer MP, Atanasov AG, Beres H, Schachner D, Dirsch VM, et al. Glycolytic switch in response to betulinic acid in non-cancer cells. PLoS ONE. 2014;9(12):e115683. doi:10.1371/journal.pone.0115683
+
+387. Kurin E, Atanasov AG, Donath O, Heiss EH, Dirsch VM, Nagy M. Synergy study of the inhibitory potential of red wine polyphenols on vascular smooth muscle cell proliferation. Planta Medica. 2012;78(8):772-778. doi:10.1055/s-0031-1298440
+
+388. Viola K, Kopf S, Rarova L, Jarukamjorn K, Kretschy N, Teichmann M, et al. Xanthohumol attenuates tumour cell-mediated breaching of the lymphendothelial barrier and prevents intravasation and metastasis. Archives of Toxicology. 2013;87(7):1301-1312. doi:10.1007/s00204-013-1028-2
+
+389. Kiss I, Unger C, Huu CN, Atanasov AG, Kramer N, Chatruphonprasert W, et al. Lobatin B inhibits NPM/ALK and NF-κB attenuating anaplastic-large-cell-lymphomagenesis and lymphendothelial tumour intravasation. Cancer Letters. 2015;356(2):994-1006. doi:10.1016/j.canlet.2014.11.019
+
+390. Nashev LG, Atanasov AG, Baker ME, Odermatt A. Cysteine-10 on 17 β -hydroxysteroid dehydrogenase 1 has stabilizing interactions in the cofactor binding region and renders sensitivity to sulfhydryl modifying chemicals. International Journal of Cell Biology, art. no. 769536. 2013. doi:10.1155/2013/769536
+
+391. Waltenberger B, Mocan A, Šmejkal K, Heiss EH, Atanasov AG. Natural products to counteract the epidemic of cardiovascular and metabolic disorders. Molecules. 2016;21(6):807. doi:10.3390/molecules21060807
+
+392. Nguyen CH, Brenner S, Huttary N, Li Y, Atanasov AG, Dirsch VM, et al. 12(S)-HETE increases intracellular Ca2+ in lymph-endothelial cells disrupting their barrier function in vitro; stabilization by clinical drugs impairing calcium supply. Cancer Letters. 2016;380(1):174-183. doi:10.1016/j.canlet.2016.06.022
+
+393. Malainer C, Schachner D, Sangiovanni E, Atanasov AG, Schwaiger S, Stuppner H, et al. Eurycomalactone Inhibits Expression of Endothelial Adhesion Molecules at a Post-Transcriptional Level. Journal of Natural Products. 2017;80(12):3186-3193. doi:10.1021/acs.jnatprod.7b00503
+
+394. Tewari D, Mocan A, Parvanov ED, Sah AN, Nabavi SM, Huminiecki L, et al. Corrigendum to: Ethnopharmacological Approaches for Therapy of Jaundice: Part II. Highly Used Plant Species from Acanthaceae, Euphorbiaceae, Asteraceae, Combretaceae, and Fabaceae Families [Front. Pharmacol. 8, (2017), (519)] doi: 10.3389/fphar.2017.00519. Frontiers in Pharmacology. 2017;8(OCT):690. doi:10.3389/fphar.2017.00690
+
+395. Tran TVA, Malainer C, Schwaiger S, Hung T, Atanasov AG, Heiss EH, et al. Screening of Vietnamese medicinal plants for NF-κB signaling inhibitors: Assessing the activity of flavonoids from the stem bark of Oroxylum indicum. Journal of Ethnopharmacology. 2015;159:36-42. doi:10.1016/j.jep.2014.10.012
+
+396. Vogl S, Atanasov A, Binder M, Bulusu M, Zehl M, Fakhrudin N, et al. The Herbal Drug Melampyrum pratense L. (Koch): Isolation and Identification of Its Bioactive Compounds Targeting Mediators of Inflammation. Evidence-based Complementary and Alternative Medicine. 2013;2013:395316. doi:10.1155/2013/395316
+
+397. Dreier D, Latkolik S, Rycek L, Schnürch M, Dymáková A, Atanasov AG, et al. Linked magnolol dimer as a selective PPARγ agonist - Structure-based rational design, synthesis, and bioactivity evaluation. Scientific Reports. 2017;7(1):13002. doi:10.1038/s41598-017-12628-5
+
+398. Baumgartner L, Sosa S, Atanasov AG, Bodensieck A, Fakhrudin N, Bauer J, et al. Lignan derivatives from Krameria lappacea roots inhibit acute inflammation in vivo and pro-inflammatory mediators in vitro. Journal of Natural Products. 2011;74(8):1779-1786. doi:10.1021/np200343t
+
+399. Atanasov AG, Odermatt A. Readjusting the glucocorticoid balance: An opportunity for modulators of 11β-hydroxysteroid dehydrogenase type 1 activity?. Endocrine, Metabolic and Immune Disorders - Drug Targets. 2007;7(2):125-140. doi:10.2174/187153007780832082
+
+400. Teichmann M, Kretschy N, Kopf S, Jarukamjorn K, Atanasov AG, Viola K, et al. Inhibition of tumour spheroid-induced prometastatic intravasation gates in the lymph endothelial cell barrier by carbamazepine: Drug testing in a 3D model. Archives of Toxicology. 2014;88(3):691-699. doi:10.1007/s00204-013-1183-5
+
+401. Atanasov AG, Nashev LG, Schweizer RA, Frick C, Odermatt A. Hexose-6-phosphate dehydrogenase determines the reaction direction of 11β-hydroxysteroid dehydrogenase type 1 as an oxoreductase. FEBS Letters. 2004;571(1-3):129-133. doi:10.1016/j.febslet.2004.06.065
+
+402. Schweizer RA, Atanasov AG, Frey BM, Odermatt A. A rapid screening assay for inhibitors of 11β-hydroxysteroid dehydrogenases (11β-HSD): Flavanone selectively inhibits 11β-HSD1 reductase activity. Molecular and Cellular Endocrinology. 2003;212(1-2):41-49. doi:10.1016/j.mce.2003.09.027
+
+403. Atanasov AG, Nashev LG, Tam S, Baker ME, Odermatt A. Organotins disrupt the 11β-hydroxysteroid dehydrogenase type 2-dependent local inactivation of glucocorticoids. Environmental Health Perspectives. 2005;113(11):1600-1606. doi:10.1289/ehp.8209
+
+404. Odermatt A, Atanasov AG, Balazs Z, Schweizer RA, Nashev LG, Schuster D, et al. Why is 11β-hydroxysteroid dehydrogenase type 1 facing the endoplasmic reticulum lumen?: Physiological relevance of the membrane topology of 11β-HSD1. Molecular and Cellular Endocrinology. 2006;248(1-2):15-23. doi:10.1016/j.mce.2005.11.040
+
+405. Atanasov AG, Tam S, Röcken JM, Baker ME, Odermatt A. Inhibition of 11β-hydroxysteroid dehydrogenase type 2 by dithiocarbamates. Biochemical and Biophysical Research Communications. 2003;308(2):257-262. doi:10.1016/S0006-291X(03)01359-7
+
+406. Frick C, Atanasov AG, Arnold P, Ozols J, Odermatt A. Appropriate function of 11β-hydroxysteroid dehydrogenase type 1 in the endoplasmic reticulum lumen is dependent on its N-terminal region sharing similar topological determinants with 50-kDa esterase. Journal of Biological Chemistry. 2004;279(30):31131-31138. doi:10.1074/jbc.M313666200
+
